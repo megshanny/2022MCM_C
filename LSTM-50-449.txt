@@ -1,0 +1,3480 @@
+Day: 50
+Epoch: 137
+Epoch: 51
+data1_predict_price: [1346.275 1361.425 1261.55  1398.175 1368.175]
+data1_predict_date: [51 52 53 54 57]
+data2_predict_price: [1369.10375 1495.20625 1466.7675  1734.58625 1829.48125]
+data2_predict_date: [51 52 53 54 55]
+Success
+Day: 51
+Epoch: 160
+Epoch: 93
+data1_predict_price: [1307.2225  1201.74125 1351.735   1321.735   1697.01125]
+data1_predict_date: [52 53 54 57 58]
+data2_predict_price: [ 823.1125   794.67375 1062.4925  1157.3875  1060.12125]
+data2_predict_date: [52 53 54 55 56]
+Success
+Day: 52
+Epoch: 164
+Epoch: 74
+data1_predict_price: [1198.26875 1348.2625  1318.2625  1693.53875 2042.10625]
+data1_predict_date: [53 54 57 58 59]
+data2_predict_price: [ 702.7545 1006.898  1115.668  1007.3295 1896.6275]
+data2_predict_date: [53 54 55 56 57]
+Success
+Day: 53
+Epoch: 301
+Epoch: 91
+data1_predict_price: [1450.99375 1420.99375 1796.27    2144.8375  2074.19375]
+data1_predict_date: [54 57 58 59 60]
+data2_predict_price: [1185.3866 1346.9266 1133.224  2643.8008  669.9224]
+data2_predict_date: [54 55 56 57 58]
+Success
+Day: 54
+Epoch: 301
+Epoch: 150
+data1_predict_price: [1272.8     1648.07625 1996.64375 1926.      1961.03   ]
+data1_predict_date: [57 58 59 60 61]
+data2_predict_price: [ 845.23    631.5274 2142.1042  168.2258   59.2906]
+data2_predict_date: [55 56 57 58 59]
+Success
+Day: 55
+Epoch: 114
+Epoch: 76
+data1_predict_price: [1272.8     1648.07625 1996.64375 1926.      1961.03   ]
+data1_predict_date: [57 58 59 60 61]
+data2_predict_price: [ 491.0874 2001.6642   27.7858  -81.1494  794.1446]
+data2_predict_date: [56 57 58 59 60]
+Success
+Day: 56
+Epoch: 154
+Epoch: 68
+data1_predict_price: [1272.8     1648.07625 1996.64375 1926.      1961.03   ]
+data1_predict_date: [57 58 59 60 61]
+data2_predict_price: [2222.5768  248.6984  139.7632 1015.0572 1310.5826]
+data2_predict_date: [57 58 59 60 61]
+Success
+Day: 57
+Epoch: 125
+Epoch: 6
+data1_predict_price: [1658.32625 2006.89375 1936.25    1971.28    1505.81125]
+data1_predict_date: [58 59 60 61 64]
+data2_predict_price: [-1263.9184 -1372.8536  -497.5596  -202.0342  -292.6038]
+data2_predict_date: [58 59 60 61 62]
+Success
+Day: 58
+Epoch: 91
+Epoch: 54
+data1_predict_price: [1630.9175  1560.27375 1595.30375 1129.835   1106.8025 ]
+data1_predict_date: [59 60 61 64 65]
+data2_predict_price: [ 600.0348 1475.3288 1770.8542 1680.2846 1633.542 ]
+data2_predict_date: [59 60 61 62 63]
+Success
+Day: 59
+Epoch: 74
+Epoch: 122
+data1_predict_price: [1210.75625 1245.78625  780.3175   757.285    728.44625]
+data1_predict_date: [60 61 64 65 66]
+data2_predict_price: [1596.224  1891.7494 1801.1798 1754.4372 2248.2276]
+data2_predict_date: [60 61 62 63 64]
+Success
+Day: 60
+Epoch: 170
+Epoch: 33
+data1_predict_price: [1302.53     837.06125  814.02875  785.19     455.5875 ]
+data1_predict_date: [61 64 65 66 67]
+data2_predict_price: [1017.0254  926.4558  879.7132 1373.5036 1391.8754]
+data2_predict_date: [61 62 63 64 65]
+Success
+Day: 61
+Epoch: 72
+Epoch: 102
+data1_predict_price: [ 760.0875  736.1625  706.3     368.875  -375.8625]
+data1_predict_date: [64 65 66 67 68]
+data2_predict_price: [ 624.8804  578.1378 1071.9282 1090.3     832.353 ]
+data2_predict_date: [62 63 64 65 66]
+Success
+Day: 62
+Epoch: 122
+Epoch: 65
+data1_predict_price: [ 760.0875  736.1625  706.3     368.875  -375.8625]
+data1_predict_date: [64 65 66 67 68]
+data2_predict_price: [ 656.9674 1150.7578 1169.1296  911.1826  415.735 ]
+data2_predict_date: [63 64 65 66 67]
+Success
+Day: 63
+Epoch: 98
+Epoch: 131
+data1_predict_price: [ 760.0875  736.1625  706.3     368.875  -375.8625]
+data1_predict_date: [64 65 66 67 68]
+data2_predict_price: [1196.0704 1214.4422  956.4952  461.0476  395.9394]
+data2_predict_date: [64 65 66 67 68]
+Success
+Day: 64
+Epoch: 56
+Epoch: 79
+data1_predict_price: [1189.675  1159.8125  822.3875   77.65   -472.3375]
+data1_predict_date: [65 66 67 68 71]
+data2_predict_price: [724.8318 466.8848 -28.5628 -93.671   75.3822]
+data2_predict_date: [65 66 67 68 69]
+Success
+Day: 65
+Epoch: 301
+Epoch: 52
+data1_predict_price: [1197.0875  859.6625  114.925  -435.0625 -125.3   ]
+data1_predict_date: [66 67 68 71 72]
+data2_predict_price: [ 452.963   -42.4846 -107.5928   61.4604  241.7834]
+data2_predict_date: [66 67 68 69 70]
+Success
+Day: 66
+Epoch: 115
+Epoch: 124
+data1_predict_price: [ 891.775   147.0375 -402.95    -93.1875  -47.05  ]
+data1_predict_date: [67 68 71 72 73]
+data2_predict_price: [216.2824 151.1742 320.2274 500.5504 529.3572]
+data2_predict_date: [67 68 69 70 71]
+Success
+Day: 67
+Epoch: 106
+Epoch: 77
+data1_predict_price: [482.0125 -67.975  241.7875 287.925  222.4375]
+data1_predict_date: [68 71 72 73 74]
+data2_predict_price: [ 671.8518  840.905  1021.228  1050.0348 2097.715 ]
+data2_predict_date: [68 69 70 71 72]
+Success
+Day: 68
+Epoch: 68
+Epoch: 129
+data1_predict_price: [ 661.0125  970.775  1016.9125  951.425   570.0625]
+data1_predict_date: [71 72 73 74 75]
+data2_predict_price: [ 916.5732 1096.8962 1125.703  2173.3832 2608.7376]
+data2_predict_date: [69 70 71 72 73]
+Success
+Day: 69
+Epoch: 135
+Epoch: 84
+data1_predict_price: [ 661.0125  970.775  1016.9125  951.425   570.0625]
+data1_predict_date: [71 72 73 74 75]
+data2_predict_price: [ 929.303   958.1098 2005.79   2441.1444 2496.6648]
+data2_predict_date: [70 71 72 73 74]
+Success
+Day: 70
+Epoch: 82
+Epoch: 85
+data1_predict_price: [ 661.0125  970.775  1016.9125  951.425   570.0625]
+data1_predict_date: [71 72 73 74 75]
+data2_predict_price: [ 757.8668 1805.547  2240.9014 2296.4218 1459.541 ]
+data2_predict_date: [71 72 73 74 75]
+Success
+Day: 71
+Epoch: 109
+Epoch: 50
+data1_predict_price: [1524.0125 1570.15   1504.6625 1123.3    1193.1875]
+data1_predict_date: [72 73 74 75 78]
+data2_predict_price: [1786.2102 2221.5646 2277.085  1440.2042 1830.062 ]
+data2_predict_date: [72 73 74 75 76]
+Success
+Day: 72
+Epoch: 101
+Epoch: 96
+data1_predict_price: [1258.3875 1192.9     811.5375  881.425   826.625 ]
+data1_predict_date: [73 74 75 78 79]
+data2_predict_price: [1172.3244 1227.8448  390.964   780.8218  710.2874]
+data2_predict_date: [73 74 75 76 77]
+Success
+Day: 73
+Epoch: 49
+Epoch: 159
+data1_predict_price: [1119.8625  738.5     808.3875  753.5875  107.4125]
+data1_predict_date: [74 75 78 79 80]
+data2_predict_price: [797.1504 -39.7304 350.1274 279.593  468.6814]
+data2_predict_date: [74 75 76 77 78]
+Success
+Day: 74
+Epoch: 301
+Epoch: 81
+data1_predict_price: [804.7375 874.625  819.825  173.65   184.1625]
+data1_predict_date: [75 78 79 80 81]
+data2_predict_price: [-99.4308 290.427  219.8926 408.981  229.0878]
+data2_predict_date: [75 76 77 78 79]
+Success
+Day: 75
+Epoch: 109
+Epoch: 121
+data1_predict_price: [1257.5875 1202.7875  556.6125  567.125   597.825 ]
+data1_predict_date: [78 79 80 81 82]
+data2_predict_price: [1125.4978 1054.9634 1244.0518 1064.1586  983.1892]
+data2_predict_date: [76 77 78 79 80]
+Success
+Day: 76
+Epoch: 286
+Epoch: 73
+data1_predict_price: [1257.5875 1202.7875  556.6125  567.125   597.825 ]
+data1_predict_date: [78 79 80 81 82]
+data2_predict_price: [663.1356 852.224  672.3308 591.3614 503.7136]
+data2_predict_date: [77 78 79 80 81]
+Success
+Day: 77
+Epoch: 141
+Epoch: 49
+data1_predict_price: [1257.5875 1202.7875  556.6125  567.125   597.825 ]
+data1_predict_date: [78 79 80 81 82]
+data2_predict_price: [917.0484 737.1552 656.1858 568.538  324.7826]
+data2_predict_date: [78 79 80 81 82]
+Success
+Day: 78
+Epoch: 60
+Epoch: 59
+data1_predict_price: [1132.2     486.025   496.5375  527.2375  503.3125]
+data1_predict_date: [79 80 81 82 85]
+data2_predict_price: [547.4168 466.4474 378.7996 135.0442 102.4932]
+data2_predict_date: [79 80 81 82 83]
+Success
+Day: 79
+Epoch: 301
+Epoch: 90
+data1_predict_price: [540.375  550.8875 581.5875 557.6625 539.675 ]
+data1_predict_date: [80 81 82 85 86]
+data2_predict_price: [651.7406 564.0928 320.3374 287.7864 507.7624]
+data2_predict_date: [80 81 82 83 84]
+Success
+Day: 80
+Epoch: 301
+Epoch: 48
+data1_predict_price: [1188.6125 1219.3125 1195.3875 1177.4     969.4125]
+data1_predict_date: [81 82 85 86 87]
+data2_predict_price: [ 655.0422  411.2868  378.7358  598.7118 1009.857 ]
+data2_predict_date: [81 82 83 84 85]
+Success
+Day: 81
+Epoch: 133
+Epoch: 290
+data1_predict_price: [1192.55   1168.625  1150.6375  942.65    549.4125]
+data1_predict_date: [82 85 86 87 88]
+data2_predict_price: [ 498.2946  465.7436  685.7196 1096.8648 1064.7312]
+data2_predict_date: [82 83 84 85 86]
+Success
+Day: 82
+Epoch: 59
+Epoch: 51
+data1_predict_price: [1149.575  1131.5875  923.6     530.3625  799.75  ]
+data1_predict_date: [85 86 87 88 89]
+data2_predict_price: [ 739.879   959.855  1371.0002 1338.8666 2601.5078]
+data2_predict_date: [83 84 85 86 87]
+Success
+Day: 83
+Epoch: 132
+Epoch: 68
+data1_predict_price: [1149.575  1131.5875  923.6     530.3625  799.75  ]
+data1_predict_date: [85 86 87 88 89]
+data2_predict_price: [ 984.306  1395.4512 1363.3176 2625.9588 2282.4448]
+data2_predict_date: [84 85 86 87 88]
+Success
+Day: 84
+Epoch: 301
+Epoch: 50
+data1_predict_price: [1149.575  1131.5875  923.6     530.3625  799.75  ]
+data1_predict_date: [85 86 87 88 89]
+data2_predict_price: [1174.1152 1141.9816 2404.6228 2061.1088 1998.9224]
+data2_predict_date: [85 86 87 88 89]
+Success
+Day: 85
+Epoch: 89
+Epoch: 59
+data1_predict_price: [1144.2125  936.225   542.9875  812.375   536.7   ]
+data1_predict_date: [86 87 88 89 92]
+data2_predict_price: [ 722.4964 1985.1376 1641.6236 1579.4372 1225.9056]
+data2_predict_date: [86 87 88 89 90]
+Success
+Day: 86
+Epoch: 249
+Epoch: 47
+data1_predict_price: [964.5125 571.275  840.6625 564.9875 802.3125]
+data1_predict_date: [87 88 89 92 93]
+data2_predict_price: [2019.2612 1675.7472 1613.5608 1260.0292 1337.6718]
+data2_predict_date: [87 88 89 90 91]
+Success
+Day: 87
+Epoch: 260
+Epoch: 43
+data1_predict_price: [ 784.4125 1053.8     778.125  1015.45   1130.4625]
+data1_predict_date: [88 89 92 93 94]
+data2_predict_price: [ 4.154760e+02  3.532896e+02 -2.420000e-01  7.740060e+01  1.709044e+02]
+data2_predict_date: [88 89 90 91 92]
+Success
+Day: 88
+Epoch: 296
+Epoch: 49
+data1_predict_price: [1440.4375 1164.7625 1402.0875 1517.1    1353.05  ]
+data1_predict_date: [89 92 93 94 95]
+data2_predict_price: [707.5336 354.002  431.6446 525.1484 967.5986]
+data2_predict_date: [89 90 91 92 93]
+Success
+Day: 89
+Epoch: 78
+Epoch: 65
+data1_predict_price: [ 887.925  1125.25   1240.2625 1076.2125  891.975 ]
+data1_predict_date: [92 93 94 95 96]
+data2_predict_price: [ 416.4884  494.131   587.6348 1030.085  1037.187 ]
+data2_predict_date: [90 91 92 93 94]
+Success
+Day: 90
+Epoch: 53
+Epoch: 158
+data1_predict_price: [ 887.925  1125.25   1240.2625 1076.2125  891.975 ]
+data1_predict_date: [92 93 94 95 96]
+data2_predict_price: [ 846.7226  940.2264 1382.6766 1389.7786 1345.123 ]
+data2_predict_date: [91 92 93 94 95]
+Success
+Day: 91
+Epoch: 95
+Epoch: 36
+data1_predict_price: [ 887.925  1125.25   1240.2625 1076.2125  891.975 ]
+data1_predict_date: [92 93 94 95 96]
+data2_predict_price: [ 870.5038 1312.954  1320.056  1275.4004 1600.5612]
+data2_predict_date: [92 93 94 95 96]
+Success
+Day: 92
+Epoch: 83
+Epoch: 46
+data1_predict_price: [1393.425  1508.4375 1344.3875 1160.15    974.725 ]
+data1_predict_date: [93 94 95 96 99]
+data2_predict_price: [1219.4502 1226.5522 1181.8966 1507.0574 1501.6374]
+data2_predict_date: [93 94 95 96 97]
+Success
+Day: 93
+Epoch: 227
+Epoch: 71
+data1_predict_price: [1273.5625 1109.5125  925.275   739.85    790.7375]
+data1_predict_date: [ 94  95  96  99 100]
+data2_predict_price: [ 785.092   740.4364 1065.5972 1060.1772 1096.0798]
+data2_predict_date: [94 95 96 97 98]
+Success
+Day: 94
+Epoch: 248
+Epoch: 69
+data1_predict_price: [998.2    813.9625 628.5375 679.425  760.    ]
+data1_predict_date: [ 95  96  99 100 101]
+data2_predict_price: [ 730.2344 1055.3952 1049.9752 1085.8778  951.0638]
+data2_predict_date: [95 96 97 98 99]
+Success
+Day: 95
+Epoch: 61
+Epoch: 66
+data1_predict_price: [924.75625 721.26875 775.2375  861.55    -61.2625 ]
+data1_predict_date: [ 96  99 100 101 102]
+data2_predict_price: [1101.9108 1096.4908 1132.3934  997.5794 1069.7958]
+data2_predict_date: [ 96  97  98  99 100]
+Success
+Day: 96
+Epoch: 73
+Epoch: 51
+data1_predict_price: [ 928.1125   982.08125 1068.39375  145.58125  256.475  ]
+data1_predict_date: [ 99 100 101 102 103]
+data2_predict_price: [770.46   806.3626 671.5486 743.765  702.0312]
+data2_predict_date: [ 97  98  99 100 101]
+Success
+Day: 97
+Epoch: 92
+Epoch: 98
+data1_predict_price: [ 928.1125   982.08125 1068.39375  145.58125  256.475  ]
+data1_predict_date: [ 99 100 101 102 103]
+data2_predict_price: [ 824.6026  689.7886  762.005   720.2712 1249.958 ]
+data2_predict_date: [ 98  99 100 101 102]
+Success
+Day: 98
+Epoch: 160
+Epoch: 100
+data1_predict_price: [ 928.1125   982.08125 1068.39375  145.58125  256.475  ]
+data1_predict_date: [ 99 100 101 102 103]
+data2_predict_price: [ 653.586   725.8024  684.0686 1213.7554 1195.8134]
+data2_predict_date: [ 99 100 101 102 103]
+Success
+Day: 99
+Epoch: 193
+Epoch: 38
+data1_predict_price: [1190.21875 1276.53125  353.71875  464.6125   575.50625]
+data1_predict_date: [100 101 102 103 108]
+data2_predict_price: [ 860.8864  819.1526 1348.8394 1330.8974 1336.7472]
+data2_predict_date: [100 101 102 103 104]
+Success
+Day: 100
+Epoch: 301
+Epoch: 36
+data1_predict_price: [1212.0125   289.2      400.09375  510.9875   228.58125]
+data1_predict_date: [101 102 103 108 109]
+data2_predict_price: [ 751.3562 1281.043  1263.101  1268.9508 1448.0216]
+data2_predict_date: [101 102 103 104 105]
+Success
+Day: 101
+Epoch: 78
+Epoch: 21
+data1_predict_price: [210.8375  321.73125 432.625   150.21875 346.5    ]
+data1_predict_date: [102 103 108 109 110]
+data2_predict_price: [1353.8968 1335.9548 1341.8046 1520.8754 2814.4042]
+data2_predict_date: [102 103 104 105 106]
+Success
+Day: 102
+Epoch: 255
+Epoch: 50
+data1_predict_price: [1242.24375 1353.1375  1070.73125 1267.0125  1198.075  ]
+data1_predict_date: [103 108 109 110 114]
+data2_predict_price: [ 817.028   822.8778 1001.9486 2295.4774 2739.1798]
+data2_predict_date: [103 104 105 106 107]
+Success
+Day: 103
+Epoch: 69
+Epoch: 13
+data1_predict_price: [1241.89375  959.4875  1155.76875 1086.83125 1068.35   ]
+data1_predict_date: [108 109 110 114 115]
+data2_predict_price: [ 926.2225 1186.6475 2962.2975 3582.5175 7356.9025]
+data2_predict_date: [104 105 106 107 108]
+Success
+Day: 104
+Epoch: 80
+Epoch: 13
+data1_predict_price: [1241.89375  959.4875  1155.76875 1086.83125 1068.35   ]
+data1_predict_date: [108 109 110 114 115]
+data2_predict_price: [1152.035 2927.685 3547.905 7322.29  6781.405]
+data2_predict_date: [105 106 107 108 109]
+Success
+Day: 105
+Epoch: 159
+Epoch: 27
+data1_predict_price: [1241.89375  959.4875  1155.76875 1086.83125 1068.35   ]
+data1_predict_date: [108 109 110 114 115]
+data2_predict_price: [2668.25   3288.47   7062.855  6521.97   6587.7425]
+data2_predict_date: [106 107 108 109 110]
+Success
+Day: 106
+Epoch: 89
+Epoch: 27
+data1_predict_price: [1241.89375  959.4875  1155.76875 1086.83125 1068.35   ]
+data1_predict_date: [108 109 110 114 115]
+data2_predict_price: [1517.55   5291.935  4751.05   4816.8225 5094.84  ]
+data2_predict_date: [107 108 109 110 111]
+Success
+Day: 107
+Epoch: 301
+Epoch: 47
+data1_predict_price: [1241.89375  959.4875  1155.76875 1086.83125 1068.35   ]
+data1_predict_date: [108 109 110 114 115]
+data2_predict_price: [4704.755  4163.87   4229.6425 4507.66   6392.27  ]
+data2_predict_date: [108 109 110 111 112]
+Success
+Day: 108
+Epoch: 301
+Epoch: 21
+data1_predict_price: [ 852.19375 1048.475    979.5375   961.05625 1044.78125]
+data1_predict_date: [109 110 114 115 116]
+data2_predict_price: [ 389.455   455.2275  733.245  2617.855  2625.7425]
+data2_predict_date: [109 110 111 112 113]
+Success
+Day: 109
+Epoch: 107
+Epoch: 81
+data1_predict_price: [1342.18125 1273.24375 1254.7625  1338.4875  1621.45   ]
+data1_predict_date: [110 114 115 116 117]
+data2_predict_price: [1029.1525 1307.17   3191.78   3199.6675 5084.2775]
+data2_predict_date: [110 111 112 113 114]
+Success
+Day: 110
+Epoch: 83
+Epoch: 100
+data1_predict_price: [1090.1625  1071.68125 1155.40625 1438.36875 1770.49375]
+data1_predict_date: [114 115 116 117 120]
+data2_predict_price: [1230.1675 3114.7775 3122.665  5007.275  4379.5625]
+data2_predict_date: [111 112 113 114 115]
+Success
+Day: 111
+Epoch: 173
+Epoch: 52
+data1_predict_price: [1090.1625  1071.68125 1155.40625 1438.36875 1770.49375]
+data1_predict_date: [114 115 116 117 120]
+data2_predict_price: [2842.73   2850.6175 4735.2275 4107.515  4455.9025]
+data2_predict_date: [112 113 114 115 116]
+Success
+Day: 112
+Epoch: 301
+Epoch: 105
+data1_predict_price: [1090.1625  1071.68125 1155.40625 1438.36875 1770.49375]
+data1_predict_date: [114 115 116 117 120]
+data2_predict_price: [1005.6075 2890.2175 2262.505  2610.8925 4867.7825]
+data2_predict_date: [113 114 115 116 117]
+Success
+Day: 113
+Epoch: 220
+Epoch: 64
+data1_predict_price: [1090.1625  1071.68125 1155.40625 1438.36875 1770.49375]
+data1_predict_date: [114 115 116 117 120]
+data2_predict_price: [2900.58   2272.8675 2621.255  4878.145  5923.4225]
+data2_predict_date: [114 115 116 117 118]
+Success
+Day: 114
+Epoch: 83
+Epoch: 40
+data1_predict_price: [1132.51875 1216.24375 1499.20625 1831.33125 1612.31875]
+data1_predict_date: [115 116 117 120 121]
+data2_predict_price: [ 385.7075  734.095  2990.985  4036.2625 3901.14  ]
+data2_predict_date: [115 116 117 118 119]
+Success
+Day: 115
+Epoch: 60
+Epoch: 60
+data1_predict_price: [1247.975   1530.9375  1863.0625  1644.05    1977.46875]
+data1_predict_date: [116 117 120 121 122]
+data2_predict_price: [ 1638.9425  4849.9325  6347.585   6176.0375 15304.6625]
+data2_predict_date: [116 117 118 119 120]
+Success
+Day: 116
+Epoch: 241
+Epoch: 105
+data1_predict_price: [1459.6625  1791.7875  1572.775   1906.19375 2218.9125 ]
+data1_predict_date: [117 120 121 122 123]
+data2_predict_price: [ 5844.809    8074.98275  7752.6845  21651.8276   5433.02825]
+data2_predict_date: [117 118 119 120 121]
+Success
+Day: 117
+Epoch: 62
+Epoch: 133
+data1_predict_price: [1507.975   1288.9625  1622.38125 1935.1     1903.68125]
+data1_predict_date: [120 121 122 123 124]
+data2_predict_price: [ 3229.82375  2907.5255  16806.6686    587.86925  1189.61495]
+data2_predict_date: [118 119 120 121 122]
+Success
+Day: 118
+Epoch: 115
+Epoch: 274
+data1_predict_price: [1507.975   1288.9625  1622.38125 1935.1     1903.68125]
+data1_predict_date: [120 121 122 123 124]
+data2_predict_price: [   574.53175  14473.67485  -1745.1245   -1143.3788  -13770.3101 ]
+data2_predict_date: [119 120 121 122 123]
+Success
+Day: 119
+Epoch: 59
+Epoch: 241
+data1_predict_price: [1507.975   1288.9625  1622.38125 1935.1     1903.68125]
+data1_predict_date: [120 121 122 123 124]
+data2_predict_price: [ 14807.2831   -1411.51625   -809.77055 -13436.70185 -12058.1702 ]
+data2_predict_date: [120 121 122 123 124]
+Success
+Day: 120
+Epoch: 217
+Epoch: 118
+data1_predict_price: [ 959.4875  1292.90625 1605.625   1574.20625 1633.35   ]
+data1_predict_date: [121 122 123 124 127]
+data2_predict_price: [-15308.30935 -14706.56365 -27333.49495 -25954.9633  -25675.95805]
+data2_predict_date: [121 122 123 124 125]
+Success
+Day: 121
+Epoch: 301
+Epoch: 186
+data1_predict_price: [1522.91875 1835.6375  1804.21875 1863.3625  2138.5625 ]
+data1_predict_date: [122 123 124 127 128]
+data2_predict_price: [  1507.7957  -11119.1356   -9740.60395  -9461.5987  -10015.8283 ]
+data2_predict_date: [122 123 124 125 126]
+Success
+Day: 122
+Epoch: 51
+Epoch: 206
+data1_predict_price: [1491.26875 1459.85    1518.99375 1794.19375 1501.4375 ]
+data1_predict_date: [123 124 127 128 129]
+data2_predict_price: [-11841.7113  -10463.17965 -10184.1744  -10738.404   -25575.43245]
+data2_predict_date: [123 124 125 126 127]
+Success
+Day: 123
+Epoch: 43
+Epoch: 20
+data1_predict_price: [1174.385 1251.87  1587.37  1244.615 2059.065]
+data1_predict_date: [124 127 128 129 130]
+data2_predict_price: [  2159.45165   2438.4569    1884.2273  -12952.80115 -13489.85065]
+data2_predict_date: [124 125 126 127 128]
+Success
+Day: 124
+Epoch: 15
+Epoch: 79
+data1_predict_price: [1267.835 1603.335 1260.58  2075.03  1616.4  ]
+data1_predict_date: [127 128 129 130 131]
+data2_predict_price: [  1105.29525    551.06565 -14285.9628  -14823.0123   -9264.80775]
+data2_predict_date: [125 126 127 128 129]
+Success
+Day: 125
+Epoch: 11
+Epoch: 179
+data1_predict_price: [1267.835 1603.335 1260.58  2075.03  1616.4  ]
+data1_predict_date: [127 128 129 130 131]
+data2_predict_price: [   263.6804  -14573.34805 -15110.39755  -9552.193   -10589.9197 ]
+data2_predict_date: [126 127 128 129 130]
+Success
+Day: 126
+Epoch: 102
+Epoch: 157
+data1_predict_price: [1267.835 1603.335 1260.58  2075.03  1616.4  ]
+data1_predict_date: [127 128 129 130 131]
+data2_predict_price: [-14017.47845 -14554.52795  -8996.3234  -10034.0501   -9842.1725 ]
+data2_predict_date: [127 128 129 130 131]
+Success
+Day: 127
+Epoch: 178
+Epoch: 155
+data1_predict_price: [1538.5   1195.745 2010.195 1551.565 1938.05 ]
+data1_predict_date: [128 129 130 131 134]
+data2_predict_price: [ 293.4505  5851.65505 4813.92835 5005.80595 6340.1602 ]
+data2_predict_date: [128 129 130 131 132]
+Success
+Day: 128
+Epoch: 37
+Epoch: 116
+data1_predict_price: [ 873.295 1687.745 1229.115 1615.6   2014.445]
+data1_predict_date: [129 130 131 134 135]
+data2_predict_price: [ 6462.04455  5424.31785  5616.19545  6950.5497  15941.0928 ]
+data2_predict_date: [129 130 131 132 133]
+Success
+Day: 129
+Epoch: 59
+Epoch: 84
+data1_predict_price: [2029.2   1570.57  1957.055 2355.9   2311.33 ]
+data1_predict_date: [130 131 134 135 136]
+data2_predict_price: [ -131.1267     60.7509   1395.10515 10385.64825 10714.96665]
+data2_predict_date: [130 131 132 133 134]
+Success
+Day: 130
+Epoch: 301
+Epoch: 188
+data1_predict_price: [ 737.42  1123.905 1522.75  1478.18   895.95 ]
+data1_predict_date: [131 134 135 136 137]
+data2_predict_price: [ 1087.676475    2422.030725   11412.573825   11741.892225
+ 10407.05717062]
+data2_predict_date: [131 132 133 134 135]
+Success
+Day: 131
+Epoch: 5
+Epoch: 85
+data1_predict_price: [1587.035 1985.88  1941.31  1359.08  1493.73 ]
+data1_predict_date: [134 135 136 137 138]
+data2_predict_price: [ 2227.9753375  11218.5184375  11547.8368375  10213.00178313
+  9936.37959006]
+data2_predict_date: [132 133 134 135 136]
+Success
+Day: 132
+Epoch: 13
+Epoch: 194
+data1_predict_price: [1587.035 1985.88  1941.31  1359.08  1493.73 ]
+data1_predict_date: [134 135 136 137 138]
+data2_predict_price: [ 9886.1831     10215.5015      8880.66644562  8604.04425256
+  8842.4201    ]
+data2_predict_date: [133 134 135 136 137]
+Success
+Day: 133
+Epoch: 21
+Epoch: 85
+data1_predict_price: [1587.035 1985.88  1941.31  1359.08  1493.73 ]
+data1_predict_date: [134 135 136 137 138]
+data2_predict_price: [1247.922025    -86.91302938 -363.53522244 -125.159375   2683.44686687]
+data2_predict_date: [134 135 136 137 138]
+Success
+Day: 134
+Epoch: 24
+Epoch: 206
+data1_predict_price: [1611.695 1567.125  984.895 1119.545 1495.215]
+data1_predict_date: [135 136 137 138 141]
+data2_predict_price: [-412.76144188 -689.38363494 -451.0077875  2357.59845437 2774.04297044]
+data2_predict_date: [135 136 137 138 139]
+Success
+Day: 135
+Epoch: 18
+Epoch: 101
+data1_predict_price: [1172.23   590.     724.65  1100.32  1217.975]
+data1_predict_date: [136 137 138 141 142]
+data2_predict_price: [ 643.34780694  881.72365438 3690.32989625 4106.77441231 3839.25460438]
+data2_predict_date: [136 137 138 139 140]
+Success
+Day: 136
+Epoch: 23
+Epoch: 146
+data1_predict_price: [ 612.77   747.42  1123.09  1240.745  562.725]
+data1_predict_date: [137 138 141 142 143]
+data2_predict_price: [1131.42147244 3940.02771431 4356.47223037 4088.95242244  775.55274431]
+data2_predict_date: [137 138 139 140 141]
+Success
+Day: 137
+Epoch: 5
+Epoch: 103
+data1_predict_price: [1324.35  1700.02  1817.675 1139.655  971.485]
+data1_predict_date: [138 141 142 143 144]
+data2_predict_price: [3724.56249187 4141.00700794 3873.4872      560.08752187 3362.18986875]
+data2_predict_date: [138 139 140 141 142]
+Success
+Day: 138
+Epoch: 14
+Epoch: 179
+data1_predict_price: [1560.52  1678.175 1000.155  831.985  677.72 ]
+data1_predict_date: [141 142 143 144 145]
+data2_predict_price: [ 1331.49451606  1063.97470813 -2249.42497      552.67737687
+   432.09190812]
+data2_predict_date: [139 140 141 142 143]
+Success
+Day: 139
+Epoch: 301
+Epoch: 179
+data1_predict_price: [1560.52  1678.175 1000.155  831.985  677.72 ]
+data1_predict_date: [141 142 143 144 145]
+data2_predict_price: [  652.79244206 -2660.60723606   141.49511081    20.90964206
+   657.29165081]
+data2_predict_date: [140 141 142 143 144]
+Success
+Day: 140
+Epoch: 7
+Epoch: 83
+data1_predict_price: [1560.52  1678.175 1000.155  831.985  677.72 ]
+data1_predict_date: [141 142 143 144 145]
+data2_predict_price: [-2397.46667813   404.63566875   284.0502       920.43220875
+   373.657545  ]
+data2_predict_date: [141 142 143 144 145]
+Success
+Day: 141
+Epoch: 27
+Epoch: 89
+data1_predict_price: [1310.455  632.435  464.265  310.     551.255]
+data1_predict_date: [142 143 144 145 148]
+data2_predict_price: [3714.29234687 3593.70687812 4230.08888687 3683.31422313 3214.61697813]
+data2_predict_date: [142 143 144 145 146]
+Success
+Day: 142
+Epoch: 15
+Epoch: 59
+data1_predict_price: [ 534.78   366.61   212.345  453.6   1067.2  ]
+data1_predict_date: [143 144 145 148 149]
+data2_predict_price: [ 844.12060625 1480.502615    933.72795125  465.03070625 6900.16584988]
+data2_predict_date: [143 144 145 146 147]
+Success
+Day: 143
+Epoch: 24
+Epoch: 73
+data1_predict_price: [1035.48   881.215 1122.47  1736.07  1448.935]
+data1_predict_date: [144 145 148 149 150]
+data2_predict_price: [1616.08588375 1069.31122     600.613975   7035.74911863 8866.82914563]
+data2_predict_date: [144 145 146 147 148]
+Success
+Day: 144
+Epoch: 42
+Epoch: 103
+data1_predict_price: [1067.685 1308.94  1922.54  1635.405 2196.475]
+data1_predict_date: [145 148 149 150 151]
+data2_predict_price: [ 436.64533625  -32.05190875 6403.08323488 8234.16326188 8680.81254125]
+data2_predict_date: [145 146 147 148 149]
+Success
+Day: 145
+Epoch: 10
+Epoch: 97
+data1_predict_price: [1456.455 2070.055 1782.92  2343.99  2131.015]
+data1_predict_date: [148 149 150 151 152]
+data2_predict_price: [  544.329755    6979.46489863  8810.54492563  9257.194205
+ 12881.04221   ]
+data2_predict_date: [146 147 148 149 150]
+Success
+Day: 146
+Epoch: 6
+Epoch: 145
+data1_predict_price: [1456.455 2070.055 1782.92  2343.99  2131.015]
+data1_predict_date: [148 149 150 151 152]
+data2_predict_price: [ 7466.13455663  9297.21458363  9743.863863   13367.711868
+ 15563.82152929]
+data2_predict_date: [147 148 149 150 151]
+Success
+Day: 147
+Epoch: 24
+Epoch: 22
+data1_predict_price: [1456.455 2070.055 1782.92  2343.99  2131.015]
+data1_predict_date: [148 149 150 151 152]
+data2_predict_price: [2865.150027   3311.79930637 6935.64731137 9131.75697267 9499.18905637]
+data2_predict_date: [148 149 150 151 152]
+Success
+Day: 148
+Epoch: 301
+Epoch: 61
+data1_predict_price: [1840.35  1553.215 2114.285 1901.31  2253.805]
+data1_predict_date: [149 150 151 152 155]
+data2_predict_price: [1470.66302937 5094.51103438 7290.62069567 7658.05277937 6414.62506063]
+data2_predict_date: [149 150 151 152 153]
+Success
+Day: 149
+Epoch: 26
+Epoch: 109
+data1_predict_price: [ 943.865 1504.935 1291.96  1644.455 1771.38 ]
+data1_predict_date: [150 151 152 155 156]
+data2_predict_price: [4673.958005   6870.0676663  7237.49975    5994.07203125 9187.09835   ]
+data2_predict_date: [150 151 152 153 154]
+Success
+Day: 150
+Epoch: 26
+Epoch: 73
+data1_predict_price: [1803.17  1590.195 1942.69  2069.615 2408.205]
+data1_predict_date: [151 152 155 156 157]
+data2_predict_price: [3248.94966129 3616.381745   2372.95402625 5565.980345   5891.617295  ]
+data2_predict_date: [151 152 153 154 155]
+Success
+Day: 151
+Epoch: 37
+Epoch: 66
+data1_predict_price: [1023.825 1376.32  1503.245 1841.835 1673.665]
+data1_predict_date: [152 155 156 157 158]
+data2_predict_price: [ 1343.5350837    100.10736496  3293.1336837   3618.7706337
+ -5807.3853213 ]
+data2_predict_date: [152 153 154 155 156]
+Success
+Day: 152
+Epoch: 28
+Epoch: 79
+data1_predict_price: [1580.795 1707.72  2046.31  1878.14  1611.09 ]
+data1_predict_date: [155 156 157 158 159]
+data2_predict_price: [ -244.32421875  2948.7021      3274.33905    -6151.816905
+ -3338.6855475 ]
+data2_predict_date: [153 154 155 156 157]
+Success
+Day: 153
+Epoch: 28
+Epoch: 81
+data1_predict_price: [1580.795 1707.72  2046.31  1878.14  1611.09 ]
+data1_predict_date: [155 156 157 158 159]
+data2_predict_price: [ 4190.61631875  4516.25326875 -4909.90268625 -2096.77132875
+ -2291.87548125]
+data2_predict_date: [154 155 156 157 158]
+Success
+Day: 154
+Epoch: 22
+Epoch: 104
+data1_predict_price: [1580.795 1707.72  2046.31  1878.14  1611.09 ]
+data1_predict_date: [155 156 157 158 159]
+data2_predict_price: [ 1326.241575   -8099.91438    -5286.7830225  -5481.887175
+ -5121.32246812]
+data2_predict_date: [155 156 157 158 159]
+Success
+Day: 155
+Epoch: 35
+Epoch: 77
+data1_predict_price: [1349.175 1687.765 1519.595 1252.545 1061.2  ]
+data1_predict_date: [156 157 158 159 162]
+data2_predict_price: [-8426.27858    -5613.1472225  -5808.251375   -5447.68666812
+ -5546.30615187]
+data2_predict_date: [156 157 158 159 160]
+Success
+Day: 156
+Epoch: 49
+Epoch: 86
+data1_predict_price: [1569.34  1401.17  1134.12   942.775 1201.025]
+data1_predict_date: [157 158 159 162 163]
+data2_predict_price: [3814.3313575  3619.227205   3979.79191188 3881.17242813 4034.103355  ]
+data2_predict_date: [157 158 159 160 161]
+Success
+Day: 157
+Epoch: 30
+Epoch: 180
+data1_predict_price: [1056.23   789.18   597.835  856.085  655.47 ]
+data1_predict_date: [158 159 162 163 164]
+data2_predict_price: [ 817.2218355  1177.78654238 1079.16705862 1232.0979855  2588.04860292]
+data2_predict_date: [158 159 160 161 162]
+Success
+Day: 158
+Epoch: 36
+Epoch: 79
+data1_predict_price: [ 973.5    782.155 1040.405  839.79  1334.425]
+data1_predict_date: [159 162 163 164 165]
+data2_predict_price: [1395.77283188 1297.15334812 1450.084275   2806.03489242 5604.64133438]
+data2_predict_date: [159 160 161 162 163]
+Success
+Day: 159
+Epoch: 33
+Epoch: 82
+data1_predict_price: [1050.605 1308.855 1108.24  1602.875 1641.735]
+data1_predict_date: [162 163 164 165 166]
+data2_predict_price: [ 936.58051625 1089.51144312 2445.46206054 5244.0685025  5233.69644312]
+data2_predict_date: [160 161 162 163 164]
+Success
+Day: 160
+Epoch: 115
+Epoch: 164
+data1_predict_price: [1050.605 1308.855 1108.24  1602.875 1641.735]
+data1_predict_date: [162 163 164 165 166]
+data2_predict_price: [1209.56806488 2565.5186823  5364.12512425 5353.75306488 7975.03645455]
+data2_predict_date: [161 162 163 164 165]
+Success
+Day: 161
+Epoch: 37
+Epoch: 92
+data1_predict_price: [1050.605 1308.855 1108.24  1602.875 1641.735]
+data1_predict_date: [162 163 164 165 166]
+data2_predict_price: [2408.72990342 5207.33634538 5196.964286   7818.24767567 7335.45636749]
+data2_predict_date: [162 163 164 165 166]
+Success
+Day: 162
+Epoch: 31
+Epoch: 56
+data1_predict_price: [1495.55  1294.935 1789.57  1828.43  1680.345]
+data1_predict_date: [163 164 165 166 169]
+data2_predict_price: [3849.47644196 3839.10438258 6460.38777225 5977.59646407 5733.92343258]
+data2_predict_date: [163 164 165 166 167]
+Success
+Day: 163
+Epoch: 27
+Epoch: 69
+data1_predict_price: [1032.585 1527.22  1566.08  1417.995 1286.905]
+data1_predict_date: [164 165 166 169 170]
+data2_predict_price: [ 1113.41636962  3734.69975929  3251.90845111  3008.23541962
+ 11947.04543436]
+data2_predict_date: [164 165 166 167 168]
+Success
+Day: 164
+Epoch: 12
+Epoch: 72
+data1_predict_price: [1731.285 1770.145 1622.06  1490.97  1593.175]
+data1_predict_date: [165 166 169 170 171]
+data2_predict_price: [ 3744.50657767  3261.71526949  3018.042238   11956.85225273
+ 11878.11370342]
+data2_predict_date: [165 166 167 168 169]
+Success
+Day: 165
+Epoch: 26
+Epoch: 79
+data1_predict_price: [1286.76  1138.675 1007.585 1109.79  1453.015]
+data1_predict_date: [166 169 170 171 172]
+data2_predict_price: [  647.21869182   403.54566033  9342.35567506  9263.61712575
+ 10087.08576033]
+data2_predict_date: [166 167 168 169 170]
+Success
+Day: 166
+Epoch: 30
+Epoch: 85
+data1_predict_price: [1105.565  974.475 1076.68  1419.905 1593.18 ]
+data1_predict_date: [169 170 171 172 173]
+data2_predict_price: [  931.19321851  9870.00323324  9791.26468393 10614.73331851
+ 16109.89303726]
+data2_predict_date: [167 168 169 170 171]
+Success
+Day: 167
+Epoch: 28
+Epoch: 92
+data1_predict_price: [1105.565  974.475 1076.68  1419.905 1593.18 ]
+data1_predict_date: [169 170 171 172 173]
+data2_predict_price: [10089.41572874 10010.67717942 10834.145814   16329.30553275
+ 13342.79885751]
+data2_predict_date: [168 169 170 171 172]
+Success
+Day: 168
+Epoch: 22
+Epoch: 66
+data1_predict_price: [1105.565  974.475 1076.68  1419.905 1593.18 ]
+data1_predict_date: [169 170 171 172 173]
+data2_predict_price: [1071.63145068 1895.10008527 7390.25980402 4403.75312878 4365.45248526]
+data2_predict_date: [169 170 171 172 173]
+Success
+Day: 169
+Epoch: 5
+Epoch: 99
+data1_predict_price: [1126.11  1228.315 1571.54  1744.815 1850.11 ]
+data1_predict_date: [170 171 172 173 176]
+data2_predict_price: [2014.22058458 7509.38030333 4522.87362809 4484.57298458 9430.66897883]
+data2_predict_date: [170 171 172 173 174]
+Success
+Day: 170
+Epoch: 14
+Epoch: 70
+data1_predict_price: [1357.805 1701.03  1874.305 1979.6   1925.76 ]
+data1_predict_date: [171 172 173 176 177]
+data2_predict_price: [6682.72500475 3696.21832951 3657.917686   8604.01368025 8203.58720749]
+data2_predict_date: [171 172 173 174 175]
+Success
+Day: 171
+Epoch: 21
+Epoch: 86
+data1_predict_price: [1583.625 1756.9   1862.195 1808.355 1334.275]
+data1_predict_date: [172 173 176 177 178]
+data2_predict_price: [-1795.61667524 -1833.91731875  3112.1786755   2711.75220274
+  3110.36948125]
+data2_predict_date: [172 173 174 175 176]
+Success
+Day: 172
+Epoch: 11
+Epoch: 66
+data1_predict_price: [1411.375 1516.67  1462.83   988.75   913.28 ]
+data1_predict_date: [173 176 177 178 179]
+data2_predict_price: [ 1221.11017349  6167.20616774  5766.77969498  6165.39697349
+ 14564.55403164]
+data2_predict_date: [173 174 175 176 177]
+Success
+Day: 173
+Epoch: 16
+Epoch: 59
+data1_predict_price: [1331.795 1277.955  803.875  728.405  365.565]
+data1_predict_date: [176 177 178 179 180]
+data2_predict_price: [ 6231.23599425  5830.80952149  6229.4268     14628.58385816
+ 17776.56555   ]
+data2_predict_date: [174 175 176 177 178]
+Success
+Day: 174
+Epoch: 9
+Epoch: 195
+data1_predict_price: [1331.795 1277.955  803.875  728.405  365.565]
+data1_predict_date: [176 177 178 179 180]
+data2_predict_price: [  886.57352724  1285.19080575  9684.3478639  12832.32955575
+ 13051.20445575]
+data2_predict_date: [175 176 177 178 179]
+Success
+Day: 175
+Epoch: 28
+Epoch: 73
+data1_predict_price: [1331.795 1277.955  803.875  728.405  365.565]
+data1_predict_date: [176 177 178 179 180]
+data2_predict_price: [ 1669.55057851 10068.70763666 13216.68932851 13435.56422851
+ 11454.56413801]
+data2_predict_date: [176 177 178 179 180]
+Success
+Day: 176
+Epoch: 30
+Epoch: 68
+data1_predict_price: [1177.11   703.03   627.56   264.72   397.825]
+data1_predict_date: [177 178 179 180 183]
+data2_predict_price: [ 9674.35443315 12822.336125   13041.211025   11060.2109345
+ 11574.10189812]
+data2_predict_date: [177 178 179 180 181]
+Success
+Day: 177
+Epoch: 64
+Epoch: 50
+data1_predict_price: [742.57  667.1   304.26  437.365  -8.905]
+data1_predict_date: [178 179 180 183 184]
+data2_predict_price: [4427.48169185 4646.35659185 2665.35650134 3179.24746497 3697.86909185]
+data2_predict_date: [178 179 180 181 182]
+Success
+Day: 178
+Epoch: 30
+Epoch: 21
+data1_predict_price: [1133.73   770.89   903.995  457.725  223.12 ]
+data1_predict_date: [179 180 183 184 185]
+data2_predict_price: [  1376.2682       -604.7318905     -90.84092688    427.7807
+ -14565.9179905 ]
+data2_predict_date: [179 180 181 182 183]
+Success
+Day: 179
+Epoch: 26
+Epoch: 54
+data1_predict_price: [843.71  976.815 530.545 295.94  209.655]
+data1_predict_date: [180 183 184 185 186]
+data2_predict_price: [  -788.5309475    -274.63998388    243.981643   -14749.7170475
+ -10454.75997376]
+data2_predict_date: [180 181 182 183 184]
+Success
+Day: 180
+Epoch: 30
+Epoch: 11
+data1_predict_price: [1335.755  889.485  654.88   568.595  443.685]
+data1_predict_date: [183 184 185 186 187]
+data2_predict_price: [  1705.98096363   2224.6025905  -12769.0961      -8474.13902625
+  -8530.0405595 ]
+data2_predict_date: [181 182 183 184 185]
+Success
+Day: 181
+Epoch: 24
+Epoch: 61
+data1_predict_price: [1335.755  889.485  654.88   568.595  443.685]
+data1_predict_date: [183 184 185 186 187]
+data2_predict_price: [  1697.78150188 -13295.91718863  -9000.96011488  -9056.86164813
+ -10652.9569375 ]
+data2_predict_date: [182 183 184 185 186]
+Success
+Day: 182
+Epoch: 27
+Epoch: 22
+data1_predict_price: [1335.755  889.485  654.88   568.595  443.685]
+data1_predict_date: [183 184 185 186 187]
+data2_predict_price: [-13766.2040655   -9471.24699176  -9527.148525   -11123.24381437
+  -5201.21996812]
+data2_predict_date: [183 184 185 186 187]
+Success
+Day: 183
+Epoch: 18
+Epoch: 51
+data1_predict_price: [757.93  523.325 437.04  312.13  355.625]
+data1_predict_date: [184 185 186 187 190]
+data2_predict_price: [5522.63707375 5466.7355405  3870.64025113 9792.66409738 9806.0373905 ]
+data2_predict_date: [184 185 186 187 188]
+Success
+Day: 184
+Epoch: 15
+Epoch: 41
+data1_predict_price: [969.995 883.71  758.8   802.295 810.255]
+data1_predict_date: [185 186 187 190 191]
+data2_predict_price: [1189.46925275 -406.62603662 5515.39780963 5528.77110276 7690.32090674]
+data2_predict_date: [185 186 187 188 189]
+Success
+Day: 185
+Epoch: 14
+Epoch: 15
+data1_predict_price: [1112.515  987.605 1031.1   1039.06   855.44 ]
+data1_predict_date: [186 187 190 191 192]
+data2_predict_price: [-338.69566437 5583.32818188 5596.701475   7758.25127899 9224.99525688]
+data2_predict_date: [186 187 188 189 190]
+Success
+Day: 186
+Epoch: 12
+Epoch: 66
+data1_predict_price: [1098.5675  1147.22625 1158.02125  964.68125 1968.165  ]
+data1_predict_date: [187 190 191 192 193]
+data2_predict_price: [ 7179.02384625  7192.39713938  9353.94694336 10820.69092125
+ 10762.27593937]
+data2_predict_date: [187 188 189 190 191]
+Success
+Day: 187
+Epoch: 23
+Epoch: 25
+data1_predict_price: [1278.25875 1289.05375 1095.71375 2099.1975  2105.05375]
+data1_predict_date: [190 191 192 193 194]
+data2_predict_price: [  1090.80322638   3533.91083409   5186.70091468   5104.6755803
+ -18068.52894748]
+data2_predict_date: [188 189 190 191 192]
+Success
+Day: 188
+Epoch: 12
+Epoch: 63
+data1_predict_price: [1278.25875 1289.05375 1095.71375 2099.1975  2105.05375]
+data1_predict_date: [190 191 192 193 194]
+data2_predict_price: [  3395.33997021   5048.1300508    4966.10471642 -18207.09981136
+ -37627.08637537]
+data2_predict_date: [189 190 191 192 193]
+Success
+Day: 189
+Epoch: 16
+Epoch: 78
+data1_predict_price: [1278.25875 1289.05375 1095.71375 2099.1975  2105.05375]
+data1_predict_date: [190 191 192 193 194]
+data2_predict_price: [  2620.48008059   2538.45474621 -20634.74978157 -40054.73634558
+ -37923.34066315]
+data2_predict_date: [190 191 192 193 194]
+Success
+Day: 190
+Epoch: 16
+Epoch: 87
+data1_predict_price: [1243.195   1049.855   2053.33875 2059.195   2149.01   ]
+data1_predict_date: [191 192 193 194 197]
+data2_predict_price: [   967.05915362 -22206.14537416 -41626.13193817 -39494.73625574
+ -28159.60754066]
+data2_predict_date: [191 192 193 194 195]
+Success
+Day: 191
+Epoch: 5
+Epoch: 129
+data1_predict_price: [1048.26    2051.74375 2057.6     2147.415   2447.95   ]
+data1_predict_date: [192 193 194 197 198]
+data2_predict_price: [-22054.57448478 -41474.56104879 -39343.16536636 -28008.03665128
+ -18326.83006361]
+data2_predict_date: [192 193 194 195 196]
+Success
+Day: 192
+Epoch: 26
+Epoch: 7
+data1_predict_price: [2252.53375 2258.39    2348.205   2648.74    2891.65625]
+data1_predict_date: [193 194 197 198 199]
+data2_predict_price: [-18306.98656401 -16175.59088158  -4840.46216649   4840.74442118
+   4028.63612778]
+data2_predict_date: [193 194 195 196 197]
+Success
+Day: 193
+Epoch: 32
+Epoch: 13
+data1_predict_price: [1253.35625 1343.17125 1643.70625 1886.6225  1833.21375]
+data1_predict_date: [194 197 198 199 200]
+data2_predict_price: [ 3170.18468243 14505.31339751 24186.51998518 23374.41169179
+ 12989.49525597]
+data2_predict_date: [194 195 196 197 198]
+Success
+Day: 194
+Epoch: 11
+Epoch: 154
+data1_predict_price: [1337.315   1637.85    1880.76625 1827.3575  1824.9825 ]
+data1_predict_date: [197 198 199 200 201]
+data2_predict_price: [12277.04842938 21958.25501705 21146.14672366 10761.23028784
+ -2786.42156798]
+data2_predict_date: [195 196 197 198 199]
+Success
+Day: 195
+Epoch: 5
+Epoch: 117
+data1_predict_price: [1337.315   1637.85    1880.76625 1827.3575  1824.9825 ]
+data1_predict_date: [197 198 199 200 201]
+data2_predict_price: [ 10609.13658767   9797.02829428   -587.88814154 -14135.53999737
+ -16114.52511764]
+data2_predict_date: [196 197 198 199 200]
+Success
+Day: 196
+Epoch: 41
+Epoch: 17
+data1_predict_price: [1337.315   1637.85    1880.76625 1827.3575  1824.9825 ]
+data1_predict_date: [197 198 199 200 201]
+data2_predict_price: [   144.67801911 -10240.23841671 -23787.89027254 -25766.87539281
+ -21765.23830886]
+data2_predict_date: [197 198 199 200 201]
+Success
+Day: 197
+Epoch: 12
+Epoch: 99
+data1_predict_price: [1558.085   1801.00125 1747.5925  1745.2175  2073.73875]
+data1_predict_date: [198 199 200 201 204]
+data2_predict_price: [ -9347.68718582 -22895.33904164 -24874.32416192 -20872.68707797
+  -9670.37964116]
+data2_predict_date: [198 199 200 201 202]
+Success
+Day: 198
+Epoch: 13
+Epoch: 128
+data1_predict_price: [1500.16625 1446.7575  1444.3825  1772.90375 1760.65125]
+data1_predict_date: [199 200 201 204 205]
+data2_predict_price: [-12506.61185583 -14485.5969761  -10483.95989215    718.34754465
+   1224.02343006]
+data2_predict_date: [199 200 201 202 203]
+Success
+Day: 199
+Epoch: 24
+Epoch: 9
+data1_predict_price: [1197.69125 1195.31625 1523.8375  1511.585   1306.72125]
+data1_predict_date: [200 201 204 205 206]
+data2_predict_price: [ -938.40962028  3063.22746368 14265.53490048 14771.21078588
+ 14680.12993587]
+data2_predict_date: [200 201 202 203 204]
+Success
+Day: 200
+Epoch: 26
+Epoch: 5
+data1_predict_price: [1246.425   1574.94625 1562.69375 1357.83    1279.7275 ]
+data1_predict_date: [201 204 205 206 207]
+data2_predict_price: [ 5039.54163395 16241.84907076 16747.52495616 16656.44410615
+ 16257.37801577]
+data2_predict_date: [201 202 203 204 205]
+Success
+Day: 201
+Epoch: 12
+Epoch: 121
+data1_predict_price: [1573.37125 1561.11875 1356.255   1278.1525  1145.72375]
+data1_predict_date: [204 205 206 207 208]
+data2_predict_price: [12237.0474368  12742.72332221 12651.64247219 12252.57638182
+ 11784.61160141]
+data2_predict_date: [202 203 204 205 206]
+Success
+Day: 202
+Epoch: 5
+Epoch: 130
+data1_predict_price: [1573.37125 1561.11875 1356.255   1278.1525  1145.72375]
+data1_predict_date: [204 205 206 207 208]
+data2_predict_price: [1592.6054564  1501.52460639 1102.45851602  634.4937356  7893.08168068]
+data2_predict_date: [203 204 205 206 207]
+Success
+Day: 203
+Epoch: 9
+Epoch: 7
+data1_predict_price: [1573.37125 1561.11875 1356.255   1278.1525  1145.72375]
+data1_predict_date: [204 205 206 207 208]
+data2_predict_price: [1008.08827499  609.02218461  141.0574042  7399.64534928 9081.84788423]
+data2_predict_date: [204 205 206 207 208]
+Success
+Day: 204
+Epoch: 22
+Epoch: 189
+data1_predict_price: [1234.9975  1030.13375  952.03125  819.6025   896.2475 ]
+data1_predict_date: [205 206 207 208 211]
+data2_predict_price: [ 680.92390963  212.95912921 7471.54707429 9153.74960924 6450.40549521]
+data2_predict_date: [205 206 207 208 209]
+Success
+Day: 205
+Epoch: 12
+Epoch: 125
+data1_predict_price: [1052.78625  974.68375  842.255    918.9     1258.945  ]
+data1_predict_date: [206 207 208 211 212]
+data2_predict_price: [  673.63558259  7932.22352767  9614.42606262  6911.08194859
+ 15484.66225176]
+data2_predict_date: [206 207 208 209 210]
+Success
+Day: 206
+Epoch: 26
+Epoch: 138
+data1_predict_price: [1167.6975  1035.26875 1111.91375 1451.95875 1059.4225 ]
+data1_predict_date: [207 208 211 212 213]
+data2_predict_price: [ 8391.66725908 10073.86979403  7370.52568    15944.10598317
+ 14728.45934638]
+data2_predict_date: [207 208 209 210 211]
+Success
+Day: 207
+Epoch: 23
+Epoch: 135
+data1_predict_price: [1120.07125 1196.71625 1536.76125 1144.225   1362.4475 ]
+data1_predict_date: [208 211 212 213 214]
+data2_predict_price: [2815.73253495  112.38842092 8685.96872409 7470.3220873  7506.98661116]
+data2_predict_date: [208 209 210 211 212]
+Success
+Day: 208
+Epoch: 29
+Epoch: 17
+data1_predict_price: [1343.095   1683.14    1290.60375 1508.82625 1965.755  ]
+data1_predict_date: [211 212 213 214 219]
+data2_predict_price: [-1512.88986403  7060.69043914  5845.04380235  5881.70832621
+ 13801.18196997]
+data2_predict_date: [209 210 211 212 213]
+Success
+Day: 209
+Epoch: 16
+Epoch: 127
+data1_predict_price: [1343.095   1683.14    1290.60375 1508.82625 1965.755  ]
+data1_predict_date: [211 212 213 214 219]
+data2_predict_price: [ 9754.73014117  8539.08350438  8575.74802824 16495.221672
+ 15170.23005034]
+data2_predict_date: [210 211 212 213 214]
+Success
+Day: 210
+Epoch: 21
+Epoch: 116
+data1_predict_price: [1343.095   1683.14    1290.60375 1508.82625 1965.755  ]
+data1_predict_date: [211 212 213 214 219]
+data2_predict_price: [-3.16166368e+01  5.04788707e+00  7.92452153e+03  6.59952991e+03
+  6.97531055e+03]
+data2_predict_date: [211 212 213 214 215]
+Success
+Day: 211
+Epoch: 24
+Epoch: 13
+data1_predict_price: [1590.095   1197.55875 1415.78125 1872.71    1330.365  ]
+data1_predict_date: [212 213 214 219 220]
+data2_predict_price: [ 1244.40939886  9163.88304262  7838.89142097  8214.67205886
+ 11498.6464429 ]
+data2_predict_date: [212 213 214 215 216]
+Success
+Day: 212
+Epoch: 71
+Epoch: 127
+data1_predict_price: [ 860.36375 1078.58625 1535.515    993.17    1084.63125]
+data1_predict_date: [213 214 219 220 221]
+data2_predict_price: [ 9146.09068176  7821.0990601   8196.879698   11480.85408203
+ 14088.86308307]
+data2_predict_date: [213 214 215 216 217]
+Success
+Day: 213
+Epoch: 15
+Epoch: 196
+data1_predict_price: [1492.5225  1949.45125 1407.10625 1498.5675  2200.7875 ]
+data1_predict_date: [214 219 220 221 222]
+data2_predict_price: [-105.90162166  269.87901624 3553.85340028 6161.86240131 5084.9638516 ]
+data2_predict_date: [214 215 216 217 218]
+Success
+Day: 214
+Epoch: 5
+Epoch: 143
+data1_predict_price: [1741.07875 1198.73375 1290.195   1992.415   2314.35125]
+data1_predict_date: [219 220 221 222 225]
+data2_predict_price: [1555.8043509  4839.77873493 7447.78773596 6370.88918626  891.61433794]
+data2_predict_date: [215 216 217 218 219]
+Success
+Day: 215
+Epoch: 17
+Epoch: 143
+data1_predict_price: [1741.07875 1198.73375 1290.195   1992.415   2314.35125]
+data1_predict_date: [219 220 221 222 225]
+data2_predict_price: [4469.23444103 7077.24344207 6000.34489236  521.07004404 1225.73612217]
+data2_predict_date: [216 217 218 219 220]
+Success
+Day: 216
+Epoch: 14
+Epoch: 7
+data1_predict_price: [1741.07875 1198.73375 1290.195   1992.415   2314.35125]
+data1_predict_date: [219 220 221 222 225]
+data2_predict_price: [ 3778.36900103  2701.47045133 -2777.80439699 -2073.13831886
+ -4179.19276555]
+data2_predict_date: [217 218 219 220 221]
+Success
+Day: 217
+Epoch: 35
+Epoch: 116
+data1_predict_price: [1741.07875 1198.73375 1290.195   1992.415   2314.35125]
+data1_predict_date: [219 220 221 222 225]
+data2_predict_price: [  110.02886329 -5369.24598503 -4664.57990689 -6770.63435359
+ -4484.33170562]
+data2_predict_date: [218 219 220 221 222]
+Success
+Day: 218
+Epoch: 37
+Epoch: 102
+data1_predict_price: [1741.07875 1198.73375 1290.195   1992.415   2314.35125]
+data1_predict_date: [219 220 221 222 225]
+data2_predict_price: [-4273.63997332 -3568.97389519 -5675.02834188 -3388.72569391
+  -803.70632649]
+data2_predict_date: [219 220 221 222 223]
+Success
+Day: 219
+Epoch: 19
+Epoch: 98
+data1_predict_price: [ 736.605    828.06625 1530.28625 1852.2225  1678.6375 ]
+data1_predict_date: [220 221 222 225 226]
+data2_predict_price: [1881.63607813 -224.41836856 2061.88427941 4646.90364683  619.5000736 ]
+data2_predict_date: [220 221 222 223 224]
+Success
+Day: 220
+Epoch: 11
+Epoch: 115
+data1_predict_price: [1370.51125 2072.73125 2394.6675  2221.0825  2222.     ]
+data1_predict_date: [221 222 225 226 227]
+data2_predict_price: [-888.12435869 1398.17828928 3983.1976567   -44.20591653 5646.92524463]
+data2_predict_date: [221 222 223 224 225]
+Success
+Day: 221
+Epoch: 11
+Epoch: 93
+data1_predict_price: [1984.32    2306.25625 2132.67125 2133.58875 2231.635  ]
+data1_predict_date: [222 225 226 227 228]
+data2_predict_price: [ 3527.98897297  6113.00834039  2085.60476716  7776.73592832
+ 11066.48378807]
+data2_predict_date: [222 223 224 225 226]
+Success
+Day: 222
+Epoch: 24
+Epoch: 143
+data1_predict_price: [1603.78625 1430.20125 1431.11875 1529.165   1518.55875]
+data1_predict_date: [225 226 227 228 229]
+data2_predict_price: [3821.64936743 -205.75420581 5485.37695535 8775.12481511 8043.09840715]
+data2_predict_date: [223 224 225 226 227]
+Success
+Day: 223
+Epoch: 6
+Epoch: 122
+data1_predict_price: [1603.78625 1430.20125 1431.11875 1529.165   1518.55875]
+data1_predict_date: [225 226 227 228 229]
+data2_predict_price: [-2766.09234823  2925.03881292  6214.78667268  5482.76026473
+  8901.62170128]
+data2_predict_date: [224 225 226 227 228]
+Success
+Day: 224
+Epoch: 12
+Epoch: 156
+data1_predict_price: [1603.78625 1430.20125 1431.11875 1529.165   1518.55875]
+data1_predict_date: [225 226 227 228 229]
+data2_predict_price: [ 6949.11927416 10238.86713391  9506.84072596 12925.70216251
+ 12435.60465501]
+data2_predict_date: [225 226 227 228 229]
+Success
+Day: 225
+Epoch: 22
+Epoch: 44
+data1_predict_price: [1095.815   1096.7325  1194.77875 1184.1725   771.88125]
+data1_predict_date: [226 227 228 229 233]
+data2_predict_price: [4530.58785976 3798.5614518  7217.42288835 6727.32538085 4307.47815956]
+data2_predict_date: [226 227 228 229 230]
+Success
+Day: 226
+Epoch: 33
+Epoch: 71
+data1_predict_price: [1268.7175  1366.76375 1356.1575   943.86625  888.81125]
+data1_predict_date: [227 228 229 233 234]
+data2_predict_price: [ 547.38828005 3966.24971659 3476.15220909 1056.30498781 6414.47234178]
+data2_predict_date: [227 228 229 230 231]
+Success
+Day: 227
+Epoch: 12
+Epoch: 195
+data1_predict_price: [1359.89625 1349.29     936.99875  881.94375  683.665  ]
+data1_predict_date: [228 229 233 234 235]
+data2_predict_price: [ 4727.97131155  4237.87380405  1818.02658276  7176.19393673
+ 11294.92452587]
+data2_predict_date: [228 229 230 231 232]
+Success
+Day: 228
+Epoch: 11
+Epoch: 82
+data1_predict_price: [1252.19375  839.9025   784.8475   586.56875  615.4725 ]
+data1_predict_date: [229 233 234 235 236]
+data2_predict_price: [  797.9224925  -1621.92472879  3736.24262519  7854.97321432
+  4884.91886529]
+data2_predict_date: [229 230 231 232 233]
+Success
+Day: 229
+Epoch: 10
+Epoch: 104
+data1_predict_price: [854.15875 799.10375 600.825   629.72875 747.53   ]
+data1_predict_date: [233 234 235 236 239]
+data2_predict_price: [-1088.55279229  4269.61456169  8388.34515083  5418.29080179
+ 11432.4670667 ]
+data2_predict_date: [230 231 232 233 234]
+Success
+Day: 230
+Epoch: 21
+Epoch: 149
+data1_predict_price: [854.15875 799.10375 600.825   629.72875 747.53   ]
+data1_predict_date: [233 234 235 236 239]
+data2_predict_price: [ 6693.14639197 10811.87698111  7841.82263208 13855.99889698
+ 14344.06750998]
+data2_predict_date: [231 232 233 234 235]
+Success
+Day: 231
+Epoch: 17
+Epoch: 92
+data1_predict_price: [854.15875 799.10375 600.825   629.72875 747.53   ]
+data1_predict_date: [233 234 235 236 239]
+data2_predict_price: [5451.73058914 2481.67624011 8495.85250501 8983.921118   8681.43491099]
+data2_predict_date: [232 233 234 235 236]
+Success
+Day: 232
+Epoch: 17
+Epoch: 107
+data1_predict_price: [854.15875 799.10375 600.825   629.72875 747.53   ]
+data1_predict_date: [233 234 235 236 239]
+data2_predict_price: [-1552.88153603  4461.29472887  4949.36334187  4646.87713485
+ 16369.81572232]
+data2_predict_date: [233 234 235 236 237]
+Success
+Day: 233
+Epoch: 23
+Epoch: 82
+data1_predict_price: [1200.395   1002.11625 1031.02    1148.82125  784.27125]
+data1_predict_date: [234 235 236 239 240]
+data2_predict_price: [ 7466.2525529   7954.3211659   7651.83495888 19374.77354635
+ 24220.49809934]
+data2_predict_date: [234 235 236 237 238]
+Success
+Day: 234
+Epoch: 17
+Epoch: 109
+data1_predict_price: [1052.02125 1080.925   1198.72625  834.17625  662.2375 ]
+data1_predict_date: [235 236 239 240 241]
+data2_predict_price: [ 1935.61861299  1633.13240598 13356.07099345 18201.79554644
+ 17543.75385278]
+data2_predict_date: [235 236 237 238 239]
+Success
+Day: 235
+Epoch: 17
+Epoch: 32
+data1_predict_price: [1257.35375 1375.155   1010.605    838.66625  116.88   ]
+data1_predict_date: [236 239 240 241 242]
+data2_predict_price: [ 1205.80591798 12928.74450545 17774.46905845 17116.42736478
+ 25568.81548634]
+data2_predict_date: [236 237 238 239 240]
+Success
+Day: 236
+Epoch: 5
+Epoch: 143
+data1_predict_price: [1345.85125  981.30125  809.3625    87.57625   72.03125]
+data1_predict_date: [239 240 241 242 243]
+data2_predict_price: [13256.27365847 18101.99821146 17443.9565178  25896.34463936
+ 29365.69656023]
+data2_predict_date: [237 238 239 240 241]
+Success
+Day: 237
+Epoch: 26
+Epoch: 136
+data1_predict_price: [1345.85125  981.30125  809.3625    87.57625   72.03125]
+data1_predict_date: [239 240 241 242 243]
+data2_predict_price: [ 6364.47455299  5706.43285933 14158.82098089 17628.17290176
+ 15566.08547853]
+data2_predict_date: [238 239 240 241 242]
+Success
+Day: 238
+Epoch: 25
+Epoch: 8
+data1_predict_price: [1345.85125  981.30125  809.3625    87.57625   72.03125]
+data1_predict_date: [239 240 241 242 243]
+data2_predict_price: [  877.82673534  9330.21485689 12799.56677776 10737.47935454
+ 13100.6950507 ]
+data2_predict_date: [239 240 241 242 243]
+Success
+Day: 239
+Epoch: 17
+Epoch: 105
+data1_predict_price: [865.25    693.31125 -28.475   -44.02     11.22375]
+data1_predict_date: [240 241 242 243 246]
+data2_predict_price: [10093.00734656 13562.35926743 11500.2718442  13863.48754037
+ 28458.78445928]
+data2_predict_date: [240 241 242 243 244]
+Success
+Day: 240
+Epoch: 12
+Epoch: 109
+data1_predict_price: [1048.46125  326.675    311.13     366.37375   54.50375]
+data1_predict_date: [241 242 243 246 247]
+data2_predict_price: [ 5120.45192087  3058.36449764  5421.58019381 20016.87711272
+ 21453.58214124]
+data2_predict_date: [241 242 243 244 245]
+Success
+Day: 241
+Epoch: 21
+Epoch: 88
+data1_predict_price: [501.16375 485.61875 540.8625  228.9925  310.57625]
+data1_predict_date: [242 243 246 247 248]
+data2_predict_price: [ -299.20117323  2064.01452294 16659.31144185 18096.01647037
+ 33673.3505944 ]
+data2_predict_date: [242 243 244 245 246]
+Success
+Day: 242
+Epoch: 25
+Epoch: 18
+data1_predict_price: [1207.605   1262.84875  950.97875 1032.5625  1036.7725 ]
+data1_predict_date: [243 246 247 248 249]
+data2_predict_price: [ 4184.20625917 18779.50317808 20216.2082066  35793.54233063
+ 43877.73395426]
+data2_predict_date: [243 244 245 246 247]
+Success
+Day: 243
+Epoch: 16
+Epoch: 106
+data1_predict_price: [1286.49375  974.62375 1056.2075  1060.4175  1324.735  ]
+data1_predict_date: [246 247 248 249 250]
+data2_predict_price: [16424.29691891 17861.00194743 33438.33607146 41522.5276951
+ 42614.27334183]
+data2_predict_date: [244 245 246 247 248]
+Success
+Day: 244
+Epoch: 17
+Epoch: 12
+data1_predict_price: [1286.49375  974.62375 1056.2075  1060.4175  1324.735  ]
+data1_predict_date: [246 247 248 249 250]
+data2_predict_price: [ 3208.62504152 18785.95916555 26870.15078919 27961.89643592
+ 19968.19627804]
+data2_predict_date: [245 246 247 248 249]
+Success
+Day: 245
+Epoch: 19
+Epoch: 20
+data1_predict_price: [1286.49375  974.62375 1056.2075  1060.4175  1324.735  ]
+data1_predict_date: [246 247 248 249 250]
+data2_predict_price: [17353.65062403 25437.84224766 26529.5878944  18535.88773651
+ 19123.32316812]
+data2_predict_date: [246 247 248 249 250]
+Success
+Day: 246
+Epoch: 12
+Epoch: 9
+data1_predict_price: [ 921.43    1003.01375 1007.22375 1271.54125 1336.6625 ]
+data1_predict_date: [247 248 249 250 253]
+data2_predict_price: [ 9864.19162363 10955.93727037  2962.23711248  3549.67254409
+  4037.58635837]
+data2_predict_date: [247 248 249 250 251]
+Success
+Day: 247
+Epoch: 7
+Epoch: 49
+data1_predict_price: [1315.78375 1319.99375 1584.31125 1649.4325  1676.69   ]
+data1_predict_date: [248 249 250 253 254]
+data2_predict_price: [ 2830.77762174 -5162.92253615 -4575.48710454 -4087.57329026
+ -9832.30044207]
+data2_predict_date: [248 249 250 251 252]
+Success
+Day: 248
+Epoch: 23
+Epoch: 5
+data1_predict_price: [1261.61    1525.9275  1591.04875 1618.30625 2379.79125]
+data1_predict_date: [249 250 253 254 255]
+data2_predict_price: [ -6186.21509489  -5598.77966328  -5110.865849   -10855.59300081
+  -1326.87738804]
+data2_predict_date: [249 250 251 252 253]
+Success
+Day: 249
+Epoch: 9
+Epoch: 9
+data1_predict_price: [1520.2175  1585.33875 1612.59625 2374.08125 2322.31875]
+data1_predict_date: [250 253 254 255 256]
+data2_predict_price: [ 2371.41543161  2859.32924589 -2885.39790592  6643.31770684
+  3336.14162077]
+data2_predict_date: [250 251 252 253 254]
+Success
+Day: 250
+Epoch: 14
+Epoch: 12
+data1_predict_price: [1317.12125 1344.37875 2105.86375 2054.10125 1923.31875]
+data1_predict_date: [253 254 255 256 257]
+data2_predict_price: [ 2599.77579505 -4427.93471146  7330.24197266  3300.64787305
+ 33787.41846499]
+data2_predict_date: [251 252 253 254 255]
+Success
+Day: 251
+Epoch: 8
+Epoch: 13
+data1_predict_price: [1317.12125 1344.37875 2105.86375 2054.10125 1923.31875]
+data1_predict_date: [253 254 255 256 257]
+data2_predict_price: [-4974.80071851  6783.37596561  2753.781866   33240.55245794
+ 48936.51664393]
+data2_predict_date: [252 253 254 255 256]
+Success
+Day: 252
+Epoch: 6
+Epoch: 5
+data1_predict_price: [1317.12125 1344.37875 2105.86375 2054.10125 1923.31875]
+data1_predict_date: [253 254 255 256 257]
+data2_predict_price: [13767.01668412  9737.42258451 40224.19317645 55920.15736244
+ 48359.92284651]
+data2_predict_date: [253 254 255 256 257]
+Success
+Day: 253
+Epoch: 35
+Epoch: 10
+data1_predict_price: [1286.1075  2047.5925  1995.83    1865.0475  2088.20875]
+data1_predict_date: [254 255 256 257 261]
+data2_predict_price: [-1938.93178661 28547.83880533 44243.80299132 36683.56847539
+ 50737.03119517]
+data2_predict_date: [254 255 256 257 258]
+Success
+Day: 254
+Epoch: 8
+Epoch: 9
+data1_predict_price: [2021.685   1969.9225  1839.14    2062.30125 2104.375  ]
+data1_predict_date: [255 256 257 261 262]
+data2_predict_price: [34515.91900426 51113.02472459 43132.69854391 57993.98886077
+ 93761.59785191]
+data2_predict_date: [255 256 257 258 259]
+Success
+Day: 255
+Epoch: 18
+Epoch: 5
+data1_predict_price: [1200.7875  1070.005   1293.16625 1335.24    1080.98875]
+data1_predict_date: [256 257 261 262 263]
+data2_predict_price: [18853.42572033 10873.09953965 25734.38985652 61501.99884766
+ 55822.21633953]
+data2_predict_date: [256 257 258 259 260]
+Success
+Day: 256
+Epoch: 18
+Epoch: 69
+data1_predict_price: [1126.1675  1349.32875 1391.4025  1137.15125 1279.64625]
+data1_predict_date: [257 261 262 263 264]
+data2_predict_price: [-5593.11989468  9268.17042218 45035.77941332 39355.9969052
+ 63119.35848952]
+data2_predict_date: [257 258 259 260 261]
+Success
+Day: 257
+Epoch: 95
+Epoch: 74
+data1_predict_price: [1488.21125 1530.285   1276.03375 1418.52875 1682.84625]
+data1_predict_date: [261 262 263 264 267]
+data2_predict_price: [17453.18526646 54142.34883769 48310.31064696 72684.2233056
+ 40078.15411234]
+data2_predict_date: [258 259 260 261 262]
+Success
+Day: 258
+Epoch: 8
+Epoch: 77
+data1_predict_price: [1488.21125 1530.285   1276.03375 1418.52875 1682.84625]
+data1_predict_date: [261 262 263 264 267]
+data2_predict_price: [38968.98357123 33136.9453805  57510.85803914 24904.78884588
+ 37543.9326965 ]
+data2_predict_date: [259 260 261 262 263]
+Success
+Day: 259
+Epoch: 22
+Epoch: 15
+data1_predict_price: [1488.21125 1530.285   1276.03375 1418.52875 1682.84625]
+data1_predict_date: [261 262 263 264 267]
+data2_predict_price: [ -3639.05739073  20734.85526791 -11871.21392535    767.92992527
+ -15385.29677244]
+data2_predict_date: [260 261 262 263 264]
+Success
+Day: 260
+Epoch: 122
+Epoch: 34
+data1_predict_price: [1488.21125 1530.285   1276.03375 1418.52875 1682.84625]
+data1_predict_date: [261 262 263 264 267]
+data2_predict_price: [26649.84335864 -5956.22583462  6682.918016   -9470.30868172
+  5980.78730831]
+data2_predict_date: [261 262 263 264 265]
+Success
+Day: 261
+Epoch: 5
+Epoch: 64
+data1_predict_price: [1304.77375 1050.5225  1193.0175  1457.335   1377.58625]
+data1_predict_date: [262 263 264 267 268]
+data2_predict_price: [-30316.04919326 -17676.90534264 -33830.13204036 -18379.03605033
+ -15745.56276324]
+data2_predict_date: [262 263 264 265 266]
+Success
+Day: 262
+Epoch: 22
+Epoch: 9
+data1_predict_price: [1011.94875 1154.44375 1418.76125 1339.0125  1451.875  ]
+data1_predict_date: [263 264 267 268 269]
+data2_predict_price: [14925.07776462 -1228.1489331  14222.94705693 16856.42034402
+ 16106.75087272]
+data2_predict_date: [263 264 265 266 267]
+Success
+Day: 263
+Epoch: 20
+Epoch: 6
+data1_predict_price: [1407.345   1671.6625  1591.91375 1704.77625 1657.9525 ]
+data1_predict_date: [264 267 268 269 270]
+data2_predict_price: [-13753.98402672   1697.11196331   4330.5852504    3580.9157791
+  24682.97000531]
+data2_predict_date: [264 265 266 267 268]
+Success
+Day: 264
+Epoch: 8
+Epoch: 85
+data1_predict_price: [1539.2675  1459.51875 1572.38125 1525.5575  1855.725  ]
+data1_predict_date: [267 268 269 270 271]
+data2_predict_price: [17861.02599003 20494.49927712 19744.82980582 40846.88403203
+ 42847.11885294]
+data2_predict_date: [265 266 267 268 269]
+Success
+Day: 265
+Epoch: 30
+Epoch: 10
+data1_predict_price: [1539.2675  1459.51875 1572.38125 1525.5575  1855.725  ]
+data1_predict_date: [267 268 269 270 271]
+data2_predict_price: [ 5159.23844509  4409.56897379 25511.6232     27511.85802091
+ 49084.17324999]
+data2_predict_date: [266 267 268 269 270]
+Success
+Day: 266
+Epoch: 39
+Epoch: 41
+data1_predict_price: [1539.2675  1459.51875 1572.38125 1525.5575  1855.725  ]
+data1_predict_date: [267 268 269 270 271]
+data2_predict_price: [ 1766.5036717  22868.55789791 24868.79271882 46441.1079479
+ 44666.57199924]
+data2_predict_date: [267 268 269 270 271]
+Success
+Day: 267
+Epoch: 13
+Epoch: 97
+data1_predict_price: [1200.20125 1313.06375 1266.24    1596.4075  1758.6575 ]
+data1_predict_date: [268 269 270 271 274]
+data2_predict_price: [23631.58422621 25631.81904712 47204.13427621 45429.59832754
+ 47926.73562532]
+data2_predict_date: [268 269 270 271 272]
+Success
+Day: 268
+Epoch: 25
+Epoch: 5
+data1_predict_price: [1406.3625  1359.53875 1689.70625 1851.95625 2295.715  ]
+data1_predict_date: [269 270 271 274 275]
+data2_predict_price: [  5799.45949244  36527.89614358  34080.02235769  37702.27582924
+ 131369.66270214]
+data2_predict_date: [269 270 271 272 273]
+Success
+Day: 269
+Epoch: 14
+Epoch: 77
+data1_predict_price: [1244.17625 1574.34375 1736.59375 2180.3525  2095.665  ]
+data1_predict_date: [270 271 274 275 276]
+data2_predict_price: [ 35871.69573064  33195.22822814  37084.1637113  138365.22337971
+  75953.29173452]
+data2_predict_date: [270 271 272 273 274]
+Success
+Day: 270
+Epoch: 5
+Epoch: 77
+data1_predict_price: [1603.2675  1765.5175  2209.27625 2124.58875 1532.85625]
+data1_predict_date: [271 274 275 276 277]
+data2_predict_price: [6.56249750e+00 3.89549798e+03 1.05176558e+05 4.27646260e+04
+ 4.80131330e+04]
+data2_predict_date: [271 272 273 274 275]
+Success
+Day: 271
+Epoch: 12
+Epoch: 67
+data1_predict_price: [1428.8     1872.55875 1787.87125 1196.13875  978.105  ]
+data1_predict_date: [274 275 276 277 278]
+data2_predict_price: [  6716.42678316 107997.48645157  45585.55480638  50834.06183191
+  92230.44001229]
+data2_predict_date: [272 273 274 275 276]
+Success
+Day: 272
+Epoch: 8
+Epoch: 57
+data1_predict_price: [1428.8     1872.55875 1787.87125 1196.13875  978.105  ]
+data1_predict_date: [274 275 276 277 278]
+data2_predict_price: [104126.43252541  41714.50088022  46963.00790575  88359.38608613
+  93542.78514419]
+data2_predict_date: [273 274 275 276 277]
+Success
+Day: 273
+Epoch: 5
+Epoch: 59
+data1_predict_price: [1428.8     1872.55875 1787.87125 1196.13875  978.105  ]
+data1_predict_date: [274 275 276 277 278]
+data2_predict_price: [-59513.30164519 -54264.79461966 -12868.41643928  -7685.01738121
+   7618.92171664]
+data2_predict_date: [274 275 276 277 278]
+Success
+Day: 274
+Epoch: 8
+Epoch: 52
+data1_predict_price: [1710.15875 1625.47125 1033.73875  815.705    808.39125]
+data1_predict_date: [275 276 277 278 281]
+data2_predict_price: [ 8099.19114415 51113.96363808 56487.80441007 72381.25902935
+   785.06836588]
+data2_predict_date: [275 276 277 278 279]
+Success
+Day: 275
+Epoch: 10
+Epoch: 48
+data1_predict_price: [1177.3125   585.58     367.54625  360.2325   212.9875 ]
+data1_predict_date: [276 277 278 281 282]
+data2_predict_price: [45762.95757993 51136.79835192 67030.2529712  -4565.93769227
+ 22405.3804089 ]
+data2_predict_date: [276 277 278 279 280]
+Success
+Day: 276
+Epoch: 13
+Epoch: 41
+data1_predict_price: [683.7675  465.73375 458.42    311.175   753.2875 ]
+data1_predict_date: [277 278 281 282 283]
+data2_predict_price: [  8079.84077199  23973.29539127 -47622.8952722  -20651.57717104
+ -33139.71300244]
+data2_predict_date: [277 278 279 280 281]
+Success
+Day: 277
+Epoch: 15
+Epoch: 87
+data1_predict_price: [1036.51625 1029.2025   881.9575  1324.07     631.91625]
+data1_predict_date: [278 281 282 283 284]
+data2_predict_price: [  18925.52119914  -55400.50341825  -27419.29685177  -40394.66437817
+ -121685.35741846]
+data2_predict_date: [278 279 280 281 282]
+Success
+Day: 278
+Epoch: 5
+Epoch: 29
+data1_predict_price: [1248.08625 1100.84125 1542.95375  850.8      876.41125]
+data1_predict_date: [281 282 283 284 285]
+data2_predict_price: [ -71861.06480338  -43879.85823691  -56855.22576331 -138145.91880359
+ -131162.43065797]
+data2_predict_date: [279 280 281 282 283]
+Success
+Day: 279
+Epoch: 17
+Epoch: 34
+data1_predict_price: [1248.08625 1100.84125 1542.95375  850.8      876.41125]
+data1_predict_date: [281 282 283 284 285]
+data2_predict_price: [ 30459.14656647  17483.77904008 -63806.91400021 -56823.42585458
+ -52771.93710083]
+data2_predict_date: [280 281 282 283 284]
+Success
+Day: 280
+Epoch: 20
+Epoch: 44
+data1_predict_price: [1248.08625 1100.84125 1542.95375  850.8      876.41125]
+data1_predict_date: [281 282 283 284 285]
+data2_predict_price: [-10467.9782744  -91758.67131468 -84775.18316906 -80723.69441531
+ -71589.00005622]
+data2_predict_date: [281 282 283 284 285]
+Success
+Day: 281
+Epoch: 6
+Epoch: 48
+data1_predict_price: [1100.905   1543.0175   850.86375  876.475    635.39375]
+data1_predict_date: [282 283 284 285 288]
+data2_predict_price: [-78673.48277729 -71689.99463166 -67638.50587791 -58503.81151882
+ -24562.23522366]
+data2_predict_date: [282 283 284 285 286]
+Success
+Day: 282
+Epoch: 21
+Epoch: 44
+data1_predict_price: [1684.3125   992.15875 1017.77     776.68875  578.41   ]
+data1_predict_date: [283 284 285 288 289]
+data2_predict_price: [ 9583.48814563 13634.97689938 22769.67125846 56711.24755363
+ 51444.40219029]
+data2_predict_date: [283 284 285 286 287]
+Success
+Day: 283
+Epoch: 29
+Epoch: 55
+data1_predict_price: [550.34625 575.9575  334.87625 136.5975  144.1    ]
+data1_predict_date: [284 285 288 289 290]
+data2_predict_price: [ 6722.53200375 15857.22636284 49798.802658   44531.95729466
+ 66504.7108237 ]
+data2_predict_date: [284 285 286 287 288]
+Success
+Day: 284
+Epoch: 13
+Epoch: 27
+data1_predict_price: [1276.41125 1035.33     837.05125  844.55375 1115.45625]
+data1_predict_date: [285 288 289 290 291]
+data2_predict_price: [11861.98237209 45803.55866725 40536.71330391 62509.46683295
+ 79914.64184425]
+data2_predict_date: [285 286 287 288 289]
+Success
+Day: 285
+Epoch: 22
+Epoch: 50
+data1_predict_price: [1014.61875  816.34     823.8425  1094.745   1253.7025 ]
+data1_predict_date: [288 289 290 291 292]
+data2_predict_price: [36655.05629516 31388.21093182 53360.96446087 70766.13947216
+ 66549.4044351 ]
+data2_predict_date: [286 287 288 289 290]
+Success
+Day: 286
+Epoch: 18
+Epoch: 26
+data1_predict_price: [1014.61875  816.34     823.8425  1094.745   1253.7025 ]
+data1_predict_date: [288 289 290 291 292]
+data2_predict_price: [-2677.68047534 19295.0730537  36700.248065   32483.51302794
+ -5841.42857445]
+data2_predict_date: [287 288 289 290 291]
+Success
+Day: 287
+Epoch: 5
+Epoch: 45
+data1_predict_price: [1014.61875  816.34     823.8425  1094.745   1253.7025 ]
+data1_predict_date: [288 289 290 291 292]
+data2_predict_price: [ 24485.11981504  41890.29482634  37673.55978928   -651.38181312
+ -24310.27070931]
+data2_predict_date: [288 289 290 291 292]
+Success
+Day: 288
+Epoch: 16
+Epoch: 36
+data1_predict_price: [1046.97125 1054.47375 1325.37625 1484.33375 1137.8925 ]
+data1_predict_date: [289 290 291 292 295]
+data2_predict_price: [ 19907.2050113   15690.46997424 -22634.47162816 -46293.36052435
+ -49438.54103934]
+data2_predict_date: [289 290 291 292 293]
+Success
+Day: 289
+Epoch: 5
+Epoch: 38
+data1_predict_price: [1257.0525  1527.955   1686.9125  1340.47125 1479.67375]
+data1_predict_date: [290 291 292 295 296]
+data2_predict_price: [ -1698.83192306 -40023.77352546 -63682.66242165 -66827.84293664
+ -61883.44696972]
+data2_predict_date: [290 291 292 293 294]
+Success
+Day: 290
+Epoch: 10
+Epoch: 54
+data1_predict_price: [1518.9025  1677.86    1331.41875 1470.62125 1417.2125 ]
+data1_predict_date: [291 292 295 296 297]
+data2_predict_price: [-35739.5924164  -59398.48131259 -62543.66182757 -57599.26586066
+ -36736.78752106]
+data2_predict_date: [291 292 293 294 295]
+Success
+Day: 291
+Epoch: 20
+Epoch: 41
+data1_predict_price: [1402.4575  1056.01625 1195.21875 1141.81     991.2725 ]
+data1_predict_date: [292 295 296 297 298]
+data2_predict_price: [-21100.58889619 -24245.76941118 -19301.37344427   1561.10489534
+  -6742.54100933]
+data2_predict_date: [292 293 294 295 296]
+Success
+Day: 292
+Epoch: 223
+Epoch: 11
+data1_predict_price: [ 895.80875 1035.01125  981.6025   831.065    787.53375]
+data1_predict_date: [295 296 297 298 299]
+data2_predict_price: [ -667.53913999  4276.85682692 25139.33516653 16835.68926186
+ -8014.60238603]
+data2_predict_date: [293 294 295 296 297]
+Success
+Day: 293
+Epoch: 10
+Epoch: 40
+data1_predict_price: [ 895.80875 1035.01125  981.6025   831.065    787.53375]
+data1_predict_date: [295 296 297 298 299]
+data2_predict_price: [ 7445.58730991 28308.06564952 20004.41974484 -4845.87190305
+  2467.99828202]
+data2_predict_date: [294 295 296 297 298]
+Success
+Day: 294
+Epoch: 21
+Epoch: 55
+data1_predict_price: [ 895.80875 1035.01125  981.6025   831.065    787.53375]
+data1_predict_date: [295 296 297 298 299]
+data2_predict_price: [ 23283.7383396   14980.09243493  -9870.19921296  -2556.32902789
+ -27182.14383301]
+data2_predict_date: [295 296 297 298 299]
+Success
+Day: 295
+Epoch: 21
+Epoch: 22
+data1_predict_price: [1368.4525  1315.04375 1164.50625 1120.975    690.575  ]
+data1_predict_date: [296 297 298 299 302]
+data2_predict_price: [ -5742.42047567 -30592.71212356 -23278.84193849 -47904.65674361
+  -4658.95387885]
+data2_predict_date: [296 297 298 299 300]
+Success
+Day: 296
+Epoch: 9
+Epoch: 29
+data1_predict_price: [1170.34125 1019.80375  976.2725   545.8725   362.41   ]
+data1_predict_date: [297 298 299 302 303]
+data2_predict_price: [-22250.56180989 -14936.69162482 -39562.50642994   3683.19643483
+  15612.78060853]
+data2_predict_date: [297 298 299 300 301]
+Success
+Day: 297
+Epoch: 21
+Epoch: 40
+data1_predict_price: [1069.7625  1026.23125  595.83125  412.36875  296.4025 ]
+data1_predict_date: [298 299 302 303 304]
+data2_predict_price: [  9912.76018507 -14713.05462005  28532.64824472  40462.23241842
+  40248.14694576]
+data2_predict_date: [298 299 300 301 302]
+Success
+Day: 298
+Epoch: 11
+Epoch: 29
+data1_predict_price: [1181.36875  750.96875  567.50625  451.54     600.62   ]
+data1_predict_date: [299 302 303 304 305]
+data2_predict_price: [-22015.84705512  21229.85580965  33159.43998335  32945.35451069
+  36409.65311419]
+data2_predict_date: [299 300 301 302 303]
+Success
+Day: 299
+Epoch: 10
+Epoch: 48
+data1_predict_price: [785.25    601.7875  485.82125 634.90125 327.97   ]
+data1_predict_date: [302 303 304 305 306]
+data2_predict_price: [45736.90407877 57666.48825247 57452.4027798  60916.70138331
+ 24304.33732628]
+data2_predict_date: [300 301 302 303 304]
+Success
+Day: 300
+Epoch: 6
+Epoch: 18
+data1_predict_price: [785.25    601.7875  485.82125 634.90125 327.97   ]
+data1_predict_date: [302 303 304 305 306]
+data2_predict_price: [ 14432.4441737   14218.35870104  17682.65730454 -18929.70675248
+ -15286.07038617]
+data2_predict_date: [301 302 303 304 305]
+Success
+Day: 301
+Epoch: 9
+Epoch: 56
+data1_predict_price: [785.25    601.7875  485.82125 634.90125 327.97   ]
+data1_predict_date: [302 303 304 305 306]
+data2_predict_price: [  2322.15346534   5786.45206884 -30825.91198818 -27182.27562187
+ -16834.67690607]
+data2_predict_date: [302 303 304 305 306]
+Success
+Day: 302
+Epoch: 12
+Epoch: 39
+data1_predict_price: [1028.4375   912.47125 1061.55125  754.62     628.77625]
+data1_predict_date: [303 304 305 306 309]
+data2_predict_price: [  5830.4687465  -30781.89531052 -27138.2589442  -16790.66022841
+ -69237.55494522]
+data2_predict_date: [303 304 305 306 307]
+Success
+Day: 303
+Epoch: 7
+Epoch: 48
+data1_predict_price: [1095.08375 1244.16375  937.2325   811.38875  781.0275 ]
+data1_predict_date: [304 305 306 309 310]
+data2_predict_price: [-34285.27405702 -30641.63769071 -20294.03897491 -72740.93369173
+ -84757.9552098 ]
+data2_predict_date: [304 305 306 307 308]
+Success
+Day: 304
+Epoch: 13
+Epoch: 43
+data1_predict_price: [1367.88    1060.94875  935.105    904.74375 1157.5375 ]
+data1_predict_date: [305 306 309 310 311]
+data2_predict_price: [  6029.38493732  16376.98365312 -36069.9110637  -48086.93258178
+ -29936.73157108]
+data2_predict_date: [305 306 307 308 309]
+Success
+Day: 305
+Epoch: 12
+Epoch: 37
+data1_predict_price: [ 911.96875  786.125    755.76375 1008.5575  1009.475  ]
+data1_predict_date: [306 309 310 311 312]
+data2_predict_price: [ 12702.3821328  -39744.51258402 -51761.53410209 -33611.3330914
+ -43123.64926844]
+data2_predict_date: [306 307 308 309 310]
+Success
+Day: 306
+Epoch: 22
+Epoch: 30
+data1_predict_price: [1104.45625 1074.095   1326.88875 1327.80625 1700.77625]
+data1_predict_date: [309 310 311 312 313]
+data2_predict_price: [-50108.40471682 -62125.42623489 -43975.2252242  -53487.54140124
+ -58471.40066649]
+data2_predict_date: [307 308 309 310 311]
+Success
+Day: 307
+Epoch: 7
+Epoch: 33
+data1_predict_price: [1104.45625 1074.095   1326.88875 1327.80625 1700.77625]
+data1_predict_date: [309 310 311 312 313]
+data2_predict_price: [-10278.15904626   8332.57971005  -1435.05254067  -6557.03994786
+ -95018.73617644]
+data2_predict_date: [308 309 310 311 312]
+Success
+Day: 308
+Epoch: 8
+Epoch: 45
+data1_predict_price: [1104.45625 1074.095   1326.88875 1327.80625 1700.77625]
+data1_predict_date: [309 310 311 312 313]
+data2_predict_price: [  20541.95305631   10774.32080559    5652.3333984   -82809.36283018
+ -123232.76742977]
+data2_predict_date: [309 310 311 312 313]
+Success
+Day: 309
+Epoch: 10
+Epoch: 50
+data1_predict_price: [1203.73875 1456.5325  1457.45    1830.42    1953.16   ]
+data1_predict_date: [310 311 312 313 316]
+data2_predict_price: [  -7856.67225072  -12978.65965791 -101440.35588649 -141863.76048608
+ -148239.91811761]
+data2_predict_date: [310 311 312 313 314]
+Success
+Day: 310
+Epoch: 14
+Epoch: 12
+data1_predict_price: [1493.54375 1494.46125 1867.43125 1990.17125 2206.7475 ]
+data1_predict_date: [311 312 313 316 317]
+data2_predict_price: [  -3225.32880914  -99398.33348302 -143332.22055334 -150241.51582139
+   -9290.52970066]
+data2_predict_date: [311 312 313 314 315]
+Success
+Day: 311
+Epoch: 18
+Epoch: 48
+data1_predict_price: [1243.0675  1616.0375  1738.7775  1955.35375 1999.07375]
+data1_predict_date: [312 313 316 317 318]
+data2_predict_price: [ -93908.23897388 -137842.1260442  -144751.42131225   -3800.43519152
+  -22796.4294058 ]
+data2_predict_date: [312 313 314 315 316]
+Success
+Day: 312
+Epoch: 16
+Epoch: 11
+data1_predict_price: [1611.67    1734.41    1950.98625 1994.70625 1878.74   ]
+data1_predict_date: [313 316 317 318 319]
+data2_predict_price: [-41668.67707032 -48577.97233837  92373.01378236  73377.01956808
+  73594.83856788]
+data2_predict_date: [313 314 315 316 317]
+Success
+Day: 313
+Epoch: 8
+Epoch: 56
+data1_predict_price: [1371.29    1587.86625 1631.58625 1515.62    1837.55625]
+data1_predict_date: [316 317 318 319 320]
+data2_predict_price: [ -4302.41418737 138252.94474841 119044.33181766 119267.80027851
+ 264547.47915836]
+data2_predict_date: [314 315 316 317 318]
+Success
+Day: 314
+Epoch: 12
+Epoch: 7
+data1_predict_price: [1371.29    1587.86625 1631.58625 1515.62    1837.55625]
+data1_predict_date: [316 317 318 319 320]
+data2_predict_price: [145362.96879277 126154.35586202 126377.82432287 271657.50320273
+ 315400.57721317]
+data2_predict_date: [315 316 317 318 319]
+Success
+Day: 315
+Epoch: 10
+Epoch: 6
+data1_predict_price: [1371.29    1587.86625 1631.58625 1515.62    1837.55625]
+data1_predict_date: [316 317 318 319 320]
+data2_predict_price: [-16383.10293075 -16159.6344699  129120.04440996 172863.1184204
+ 179165.40757905]
+data2_predict_date: [316 317 318 319 320]
+Success
+Day: 316
+Epoch: 10
+Epoch: 5
+data1_predict_price: [1472.12625 1515.84625 1399.88    1721.81625 1949.91625]
+data1_predict_date: [317 318 319 320 323]
+data2_predict_price: [  2975.28948985 148254.9683697  191998.04238015 198300.3315388
+ 172707.6384914 ]
+data2_predict_date: [317 318 319 320 321]
+Success
+Day: 317
+Epoch: 6
+Epoch: 11
+data1_predict_price: [1298.12    1182.15375 1504.09    1732.19    1691.95125]
+data1_predict_date: [318 319 320 323 324]
+data2_predict_price: [147840.67679685 191583.7508073  197886.03996595 172293.34691855
+ 105909.87448971]
+data2_predict_date: [318 319 320 321 322]
+Success
+Day: 318
+Epoch: 9
+Epoch: 7
+data1_predict_price: [1132.13375 1454.07    1682.17    1641.93125 1432.12875]
+data1_predict_date: [319 320 323 324 325]
+data2_predict_price: [ 46307.37401044  52609.6631691   27016.9701217  -39366.50230714
+ -38147.83983302]
+data2_predict_date: [319 320 321 322 323]
+Success
+Day: 319
+Epoch: 14
+Epoch: 9
+data1_predict_price: [1583.03625 1811.13625 1770.8975  1561.095   1986.745  ]
+data1_predict_date: [320 323 324 325 326]
+data2_predict_price: [  8949.91415865 -16642.77888874 -83026.25131758 -81807.58884346
+ -52721.75523597]
+data2_predict_date: [320 321 322 323 324]
+Success
+Day: 320
+Epoch: 26
+Epoch: 10
+data1_predict_price: [1493.      1452.76125 1242.95875 1668.60875 1791.34875]
+data1_predict_date: [323 324 325 326 327]
+data2_predict_price: [-22811.0564644  -89194.52889324 -87975.86641911 -58890.03281163
+ -12153.10954658]
+data2_predict_date: [321 322 323 324 325]
+Success
+Day: 321
+Epoch: 19
+Epoch: 5
+data1_predict_price: [1493.      1452.76125 1242.95875 1668.60875 1791.34875]
+data1_predict_date: [323 324 325 326 327]
+data2_predict_price: [-63598.67242884 -62380.00995472 -33294.17634723  13442.74691782
+  14613.12036053]
+data2_predict_date: [322 323 324 325 326]
+Success
+Day: 322
+Epoch: 14
+Epoch: 8
+data1_predict_price: [1493.      1452.76125 1242.95875 1668.60875 1791.34875]
+data1_predict_date: [323 324 325 326 327]
+data2_predict_price: [ 3964.61789112 33050.45149861 79787.37476366 80957.74820637
+ 67499.26070704]
+data2_predict_date: [323 324 325 326 327]
+Success
+Day: 323
+Epoch: 18
+Epoch: 18
+data1_predict_price: [1227.31125 1017.50875 1443.15875 1565.89875 1650.775  ]
+data1_predict_date: [324 325 326 327 330]
+data2_predict_price: [ 31952.26527449  78689.18853953  79859.56198225  66401.07448291
+ 108424.45498798]
+data2_predict_date: [324 325 326 327 328]
+Success
+Day: 324
+Epoch: 16
+Epoch: 13
+data1_predict_price: [1061.1475  1486.7975  1609.5375  1694.41375 1803.98375]
+data1_predict_date: [325 326 327 330 331]
+data2_predict_price: [49599.82326505 50770.19670776 37311.70920843 79335.08971349
+ 78173.96789741]
+data2_predict_date: [325 326 327 328 329]
+Success
+Day: 325
+Epoch: 6
+Epoch: 7
+data1_predict_price: [1695.25    1817.99    1902.86625 2012.43625 1965.6125 ]
+data1_predict_date: [326 327 330 331 332]
+data2_predict_price: [  3864.00742572  -9594.48007362  32428.90043144  31267.77861537
+ -27608.65360519]
+data2_predict_date: [326 327 328 329 330]
+Success
+Day: 326
+Epoch: 7
+Epoch: 14
+data1_predict_price: [1390.84    1475.71625 1585.28625 1538.4625  1486.7    ]
+data1_predict_date: [327 330 331 332 333]
+data2_predict_price: [-10664.36978234  31359.01072273  30197.88890665 -28678.54331391
+   6382.64578843]
+data2_predict_date: [327 328 329 330 331]
+Success
+Day: 327
+Epoch: 20
+Epoch: 6
+data1_predict_price: [1342.57625 1452.14625 1405.3225  1353.56    1008.765  ]
+data1_predict_date: [330 331 332 333 334]
+data2_predict_price: [ 44813.38050506  43652.25868899 -15224.17353157  19837.01557077
+  18471.80777214]
+data2_predict_date: [328 329 330 331 332]
+Success
+Day: 328
+Epoch: 14
+Epoch: 10
+data1_predict_price: [1342.57625 1452.14625 1405.3225  1353.56    1008.765  ]
+data1_predict_date: [330 331 332 333 334]
+data2_predict_price: [  2042.90491205 -57769.89858309 -22143.97005773 -23526.5274121
+ 128016.89169055]
+data2_predict_date: [329 330 331 332 333]
+Success
+Day: 329
+Epoch: 8
+Epoch: 7
+data1_predict_price: [1342.57625 1452.14625 1405.3225  1353.56    1008.765  ]
+data1_predict_date: [330 331 332 333 334]
+data2_predict_price: [-56560.24096214 -20934.31243678 -22316.86979115 129226.54931151
+ 141488.55297694]
+data2_predict_date: [330 331 332 333 334]
+Success
+Day: 330
+Epoch: 5
+Epoch: 6
+data1_predict_price: [1367.57    1320.74625 1268.98375  924.18875  931.69125]
+data1_predict_date: [331 332 333 334 337]
+data2_predict_price: [ 38836.12852536  37453.57117099 188996.99027365 201258.99393908
+ 186345.24060819]
+data2_predict_date: [331 332 333 334 335]
+Success
+Day: 331
+Epoch: 21
+Epoch: 12
+data1_predict_price: [1214.97625 1163.21375  818.41875  825.92125  948.66125]
+data1_predict_date: [332 333 334 337 338]
+data2_predict_price: [  2074.81697863 153618.23608129 165880.23974672 150966.48641583
+ 238492.23956008]
+data2_predict_date: [332 333 334 335 336]
+Success
+Day: 332
+Epoch: 30
+Epoch: 14
+data1_predict_price: [1219.2875   874.4925   881.995   1004.735   1306.91625]
+data1_predict_date: [333 334 337 338 339]
+data2_predict_price: [154900.74541966 167162.74908509 152248.9957542  239774.74889845
+ 204451.60007006]
+data2_predict_date: [333 334 335 336 337]
+Success
+Day: 333
+Epoch: 8
+Epoch: 11
+data1_predict_price: [ 939.605    947.1075  1069.8475  1372.02875 1809.2025 ]
+data1_predict_date: [334 337 338 339 340]
+data2_predict_price: [15602.28366543   688.53033454 88214.28347879 52891.13465041
+ 46934.37774172]
+data2_predict_date: [334 335 336 337 338]
+Success
+Day: 334
+Epoch: 6
+Epoch: 7
+data1_predict_price: [1293.6025  1416.3425  1718.52375 2155.6975  2209.295  ]
+data1_predict_date: [337 338 339 340 341]
+data2_predict_price: [-11281.24666389  76244.50648036  40921.35765198  34964.60074329
+ 138430.08178565]
+data2_predict_date: [335 336 337 338 339]
+Success
+Day: 335
+Epoch: 10
+Epoch: 9
+data1_predict_price: [1293.6025  1416.3425  1718.52375 2155.6975  2209.295  ]
+data1_predict_date: [337 338 339 340 341]
+data2_predict_price: [ 91378.55605825  56055.40722986  50098.65032118 153564.13136354
+ 231580.29112552]
+data2_predict_date: [336 337 338 339 340]
+Success
+Day: 336
+Epoch: 8
+Epoch: 7
+data1_predict_price: [1293.6025  1416.3425  1718.52375 2155.6975  2209.295  ]
+data1_predict_date: [337 338 339 340 341]
+data2_predict_price: [-31454.62882838 -37411.38573707  66054.09530529 144070.25506727
+ 149705.34440647]
+data2_predict_date: [337 338 339 340 341]
+Success
+Day: 337
+Epoch: 21
+Epoch: 18
+data1_predict_price: [1405.04    1707.22125 2144.395   2197.9925  2070.5025 ]
+data1_predict_date: [338 339 340 341 344]
+data2_predict_price: [ -1673.76490868 101791.71613368 179807.87589566 185442.96523486
+ 332159.42068477]
+data2_predict_date: [338 339 340 341 342]
+Success
+Day: 338
+Epoch: 8
+Epoch: 14
+data1_predict_price: [1572.48125 2009.655   2063.2525  1935.7625  1538.2875 ]
+data1_predict_date: [339 340 341 344 345]
+data2_predict_price: [107682.50937136 185698.66913334 191333.75847254 338050.21392245
+ 314786.26684121]
+data2_predict_date: [339 340 341 342 343]
+Success
+Day: 339
+Epoch: 15
+Epoch: 8
+data1_predict_price: [1709.92375 1763.52125 1636.03125 1238.55625 1316.8475 ]
+data1_predict_date: [340 341 344 345 346]
+data2_predict_price: [ 82196.12976198  87831.21910118 234547.67455109 211283.72746985
+ 198246.626489  ]
+data2_predict_date: [340 341 342 343 344]
+Success
+Day: 340
+Epoch: 11
+Epoch: 7
+data1_predict_price: [1338.7475  1211.2575   813.7825   892.07375 1297.96875]
+data1_predict_date: [341 344 345 346 347]
+data2_predict_price: [  9963.8150562  156680.27050611 133416.32342487 120379.22244402
+ 173084.00584342]
+data2_predict_date: [341 342 343 344 345]
+Success
+Day: 341
+Epoch: 9
+Epoch: 6
+data1_predict_price: [1168.31     770.835    849.12625 1255.02125 1603.2975 ]
+data1_predict_date: [344 345 346 347 348]
+data2_predict_price: [150846.89551691 127582.94843567 114545.84745483 167250.63085422
+  97170.54456474]
+data2_predict_date: [342 343 344 345 346]
+Success
+Day: 342
+Epoch: 8
+Epoch: 7
+data1_predict_price: [1168.31     770.835    849.12625 1255.02125 1603.2975 ]
+data1_predict_date: [344 345 346 347 348]
+data2_predict_price: [-19159.23708125 -32196.33806209  20508.44533731 -49571.64095218
+ -58600.7494983 ]
+data2_predict_date: [343 344 345 346 347]
+Success
+Day: 343
+Epoch: 11
+Epoch: 5
+data1_predict_price: [1168.31     770.835    849.12625 1255.02125 1603.2975 ]
+data1_predict_date: [344 345 346 347 348]
+data2_predict_price: [ -8879.14294784  43825.64045155 -26254.44583793 -35283.55438405
+ -16369.83928179]
+data2_predict_date: [344 345 346 347 348]
+Success
+Day: 344
+Epoch: 7
+Epoch: 6
+data1_predict_price: [ 895.425    973.71625 1379.61125 1727.8875  1630.03   ]
+data1_predict_date: [345 346 347 348 352]
+data2_predict_price: [ 56748.50539939 -13331.58089009 -22360.68943621  -3446.97433395
+ -43789.91038121]
+data2_predict_date: [345 346 347 348 349]
+Success
+Day: 345
+Epoch: 6
+Epoch: 8
+data1_predict_price: [1362.49125 1768.38625 2116.6625  2018.805   1729.9825 ]
+data1_predict_date: [346 347 348 352 353]
+data2_predict_price: [ -66093.80628948  -75122.9148356   -56209.19973334  -96552.1357806
+ -116801.07553776]
+data2_predict_date: [346 347 348 349 350]
+Success
+Day: 346
+Epoch: 11
+Epoch: 9
+data1_predict_price: [1692.545   2040.82125 1942.96375 1654.14125 1732.4325 ]
+data1_predict_date: [347 348 352 353 354]
+data2_predict_price: [ -4854.15854612  14059.55655614 -26283.37949112 -46532.31924828
+  20294.32541292]
+data2_predict_date: [347 348 349 350 351]
+Success
+Day: 347
+Epoch: 14
+Epoch: 19
+data1_predict_price: [1637.27625 1539.41875 1250.59625 1328.8875  1403.88625]
+data1_predict_date: [348 352 353 354 355]
+data2_predict_price: [ 23254.03181926 -17088.904228   -37337.84398515  29488.80067604
+  88070.63408833]
+data2_predict_date: [348 349 350 351 352]
+Success
+Day: 348
+Epoch: 9
+Epoch: 8
+data1_predict_price: [1187.4425   898.62     976.91125 1051.91     927.7125 ]
+data1_predict_date: [352 353 354 355 358]
+data2_predict_price: [-36011.16604726 -56260.10580442  10566.53885678  69148.37226906
+  66198.81386075]
+data2_predict_date: [349 350 351 352 353]
+Success
+Day: 349
+Epoch: 19
+Epoch: 9
+data1_predict_price: [1187.4425   898.62     976.91125 1051.91     927.7125 ]
+data1_predict_date: [352 353 354 355 358]
+data2_predict_price: [-15888.42644016  50938.21822104 109520.05163332 106570.49322501
+ 116814.32442602]
+data2_predict_date: [350 351 352 353 354]
+Success
+Day: 350
+Epoch: 12
+Epoch: 27
+data1_predict_price: [1187.4425   898.62     976.91125 1051.91     927.7125 ]
+data1_predict_date: [352 353 354 355 358]
+data2_predict_price: [ 71180.95299419 129762.78640648 126813.22799817 137057.05919917
+ 134936.01695231]
+data2_predict_date: [351 352 353 354 355]
+Success
+Day: 351
+Epoch: 5
+Epoch: 10
+data1_predict_price: [1187.4425   898.62     976.91125 1051.91     927.7125 ]
+data1_predict_date: [352 353 354 355 358]
+data2_predict_price: [62920.88341229 59971.32500397 70215.15620498 68094.11395811
+ 62769.95420735]
+data2_predict_date: [352 353 354 355 356]
+Success
+Day: 352
+Epoch: 11
+Epoch: 11
+data1_predict_price: [1019.0475  1102.16875 1181.8575  1053.88    2197.64375]
+data1_predict_date: [353 354 355 358 359]
+data2_predict_price: [ 1658.42704168 11902.25824269  9781.21599582  4457.05624506
+ 99681.99504613]
+data2_predict_date: [353 354 355 356 357]
+Success
+Day: 353
+Epoch: 17
+Epoch: 5
+data1_predict_price: [1391.62125 1471.31    1343.3325  2487.09625 2137.7225 ]
+data1_predict_date: [354 355 358 359 360]
+data2_predict_price: [ 14838.81905101  12717.77680414   7393.61705338 102618.55585445
+  98094.25408375]
+data2_predict_date: [354 355 356 357 358]
+Success
+Day: 354
+Epoch: 6
+Epoch: 9
+data1_predict_price: [1391.43875 1263.46125 2407.225   2057.85125 2168.4325 ]
+data1_predict_date: [355 358 359 360 361]
+data2_predict_price: [ 2461.47775313 -2862.68199763 92362.25680344 87837.95503274
+ 83501.08130637]
+data2_predict_date: [355 356 357 358 359]
+Success
+Day: 355
+Epoch: 5
+Epoch: 10
+data1_predict_price: [1192.4225  2336.18625 1986.8125  2097.39375 2393.33   ]
+data1_predict_date: [358 359 360 361 362]
+data2_predict_price: [  -412.41973376  94812.51906731  90288.21729661  85951.34357023
+ 202505.24602578]
+data2_predict_date: [356 357 358 359 360]
+Success
+Day: 356
+Epoch: 14
+Epoch: 23
+data1_predict_price: [1192.4225  2336.18625 1986.8125  2097.39375 2393.33   ]
+data1_predict_date: [358 359 360 361 362]
+data2_predict_price: [106752.64291769 101865.39641776  97179.31388619 222243.6556456
+  96466.28649206]
+data2_predict_date: [357 358 359 360 361]
+Success
+Day: 357
+Epoch: 5
+Epoch: 10
+data1_predict_price: [1192.4225  2336.18625 1986.8125  2097.39375 2393.33   ]
+data1_predict_date: [358 359 360 361 362]
+data2_predict_price: [  -301.67649994  -4987.7590315  120076.58272791  -5700.78642563
+  -3684.42729165]
+data2_predict_date: [358 359 360 361 362]
+Success
+Day: 358
+Epoch: 14
+Epoch: 18
+data1_predict_price: [2476.86375 2127.49    2238.07125 2534.0075  2968.96   ]
+data1_predict_date: [359 360 361 362 365]
+data2_predict_price: [  -341.98421457 124722.35754484  -1055.0116087     961.34752528
+ -90685.22545886]
+data2_predict_date: [359 360 361 362 363]
+Success
+Day: 359
+Epoch: 5
+Epoch: 21
+data1_predict_price: [ 986.17625 1096.7575  1392.69375 1827.64625 1910.7675 ]
+data1_predict_date: [360 361 362 365 366]
+data2_predict_price: [129553.06189941   3775.69274587   5792.05187985 -85854.52110429
+ -30888.34877987]
+data2_predict_date: [360 361 362 363 364]
+Success
+Day: 360
+Epoch: 10
+Epoch: 13
+data1_predict_price: [1448.43125 1744.3675  2179.32    2262.44125 2340.41375]
+data1_predict_date: [361 362 365 366 367]
+data2_predict_price: [-121392.34915354 -119375.99001956 -211022.5630037  -156056.39067929
+ -195386.45527691]
+data2_predict_date: [361 362 363 364 365]
+Success
+Day: 361
+Epoch: 14
+Epoch: 10
+data1_predict_price: [1639.43625 2074.38875 2157.51    2235.4825  2428.44375]
+data1_predict_date: [362 365 366 367 368]
+data2_predict_price: [  6671.01763398 -84975.55535016 -30009.38302574 -69339.44762337
+  33099.77964624]
+data2_predict_date: [362 363 364 365 366]
+Success
+Day: 362
+Epoch: 21
+Epoch: 20
+data1_predict_price: [1781.2025  1864.32375 1942.29625 2135.2575  2228.67625]
+data1_predict_date: [365 366 367 368 369]
+data2_predict_price: [ -88858.03335513  -32990.21902432  -72977.57958385   31148.13063853
+ -101562.3887518 ]
+data2_predict_date: [363 364 365 366 367]
+Success
+Day: 363
+Epoch: 15
+Epoch: 46
+data1_predict_price: [1781.2025  1864.32375 1942.29625 2135.2575  2228.67625]
+data1_predict_date: [365 366 367 368 369]
+data2_predict_price: [ 60180.07433081  20192.71377128 124318.42399365  -8392.09539668
+  -7767.18506964]
+data2_predict_date: [364 365 366 367 368]
+Success
+Day: 364
+Epoch: 9
+Epoch: 28
+data1_predict_price: [1781.2025  1864.32375 1942.29625 2135.2575  2228.67625]
+data1_predict_date: [365 366 367 368 369]
+data2_predict_price: [-35657.40555953  68468.30466285 -64242.21472749 -63617.30440045
+ -56744.72460289]
+data2_predict_date: [365 366 367 368 369]
+Success
+Day: 365
+Epoch: 10
+Epoch: 24
+data1_predict_price: [1417.32125 1495.29375 1688.255   1781.67375 1367.0825 ]
+data1_predict_date: [366 367 368 369 372]
+data2_predict_price: [108373.80023938 -24336.71915096 -23711.80882392 -16839.22902636
+ -48397.96423311]
+data2_predict_date: [366 367 368 369 370]
+Success
+Day: 366
+Epoch: 8
+Epoch: 9
+data1_predict_price: [1404.4725  1597.43375 1690.8525  1276.26125 1010.98375]
+data1_predict_date: [367 368 369 372 373]
+data2_predict_price: [-128511.92939033 -127887.0190633  -121014.43926573 -152573.17447249
+ -171638.65520119]
+data2_predict_date: [367 368 369 370 371]
+Success
+Day: 367
+Epoch: 19
+Epoch: 37
+data1_predict_price: [1520.51125 1613.93    1199.33875  934.06125  969.1275 ]
+data1_predict_date: [368 369 372 373 374]
+data2_predict_price: [   4586.18159403   11458.7613916   -20099.97381516  -39165.45454386
+ -130731.15092951]
+data2_predict_date: [368 369 370 371 372]
+Success
+Day: 368
+Epoch: 15
+Epoch: 17
+data1_predict_price: [1417.96875 1003.3775   738.1      773.16625  669.21625]
+data1_predict_date: [369 372 373 374 375]
+data2_predict_price: [  12677.53559769  -31217.01752921  -57800.25777614 -184843.62386997
+ -528150.27571846]
+data2_predict_date: [369 370 371 372 373]
+Success
+Day: 369
+Epoch: 6
+Epoch: 14
+data1_predict_price: [908.25875 642.98125 678.0475  574.0975  514.77   ]
+data1_predict_date: [372 373 374 375 376]
+data2_predict_price: [ -40678.1231269   -67261.36337383 -194304.72946766 -537611.38131615
+ -592917.56869555]
+data2_predict_date: [370 371 372 373 374]
+Success
+Day: 370
+Epoch: 19
+Epoch: 86
+data1_predict_price: [908.25875 642.98125 678.0475  574.0975  514.77   ]
+data1_predict_date: [372 373 374 375 376]
+data2_predict_price: [ -25707.33002687 -166821.23436055 -548271.99493423 -609663.22258893
+ -284446.9119051 ]
+data2_predict_date: [371 372 373 374 375]
+Success
+Day: 371
+Epoch: 9
+Epoch: 5
+data1_predict_price: [908.25875 642.98125 678.0475  574.0975  514.77   ]
+data1_predict_date: [372 373 374 375 376]
+data2_predict_price: [-137367.84355069 -518818.60412436 -580209.83177906 -254993.52109523
+ -265481.86012305]
+data2_predict_date: [372 373 374 375 376]
+Success
+Day: 372
+Epoch: 16
+Epoch: 7
+data1_predict_price: [1046.8225  1081.88875  977.93875  918.61125  548.6425 ]
+data1_predict_date: [373 374 375 376 379]
+data2_predict_price: [-377772.23057367 -439163.45822837 -113947.14754454 -124435.48657236
+ -164624.26628652]
+data2_predict_date: [373 374 375 376 377]
+Success
+Day: 373
+Epoch: 19
+Epoch: 12
+data1_predict_price: [1344.66625 1240.71625 1181.38875  811.42     724.6325 ]
+data1_predict_date: [374 375 376 379 380]
+data2_predict_price: [-57447.8143217  267768.49636213 257280.15733431 217091.37762015
+ 374495.7491431 ]
+data2_predict_date: [374 375 376 377 378]
+Success
+Day: 374
+Epoch: 17
+Epoch: 11
+data1_predict_price: [1207.35    1148.0225   778.05375  691.26625  748.64375]
+data1_predict_date: [375 376 379 380 381]
+data2_predict_price: [329193.87235083 318705.53332301 278516.75360885 435921.1251318
+ 456172.30923385]
+data2_predict_date: [375 376 377 378 379]
+Success
+Day: 375
+Epoch: 10
+Epoch: 5
+data1_predict_price: [1232.7725   862.80375  776.01625  833.39375  173.37875]
+data1_predict_date: [376 379 380 381 382]
+data2_predict_price: [ -6593.85902782 -46782.63874198 110621.73278097 130872.91688302
+  81440.40164084]
+data2_predict_date: [376 377 378 379 380]
+Success
+Day: 376
+Epoch: 16
+Epoch: 9
+data1_predict_price: [924.83125 838.04375 895.42125 235.40625 327.10875]
+data1_predict_date: [379 380 381 382 383]
+data2_predict_price: [-36551.27716416 120853.09435879 141104.27846084  91671.76321866
+ -61127.6492037 ]
+data2_predict_date: [377 378 379 380 381]
+Success
+Day: 377
+Epoch: 5
+Epoch: 10
+data1_predict_price: [924.83125 838.04375 895.42125 235.40625 327.10875]
+data1_predict_date: [379 380 381 382 383]
+data2_predict_price: [161180.75842295 181431.942525   131999.42728282 -20799.98513954
+  61708.24056618]
+data2_predict_date: [378 379 380 381 382]
+Success
+Day: 378
+Epoch: 9
+Epoch: 9
+data1_predict_price: [924.83125 838.04375 895.42125 235.40625 327.10875]
+data1_predict_date: [379 380 381 382 383]
+data2_predict_price: [  24028.80410205  -25403.71114013 -178203.12356249  -95694.89785677
+  -95009.14282864]
+data2_predict_date: [379 380 381 382 383]
+Success
+Day: 379
+Epoch: 14
+Epoch: 5
+data1_predict_price: [1206.5125 1263.89    603.875   695.5775  643.115 ]
+data1_predict_date: [380 381 382 383 386]
+data2_predict_price: [ -45489.96024218 -198289.37266454 -115781.14695882 -115095.39193069
+  -17102.17392916]
+data2_predict_date: [380 381 382 383 384]
+Success
+Day: 380
+Epoch: 9
+Epoch: 7
+data1_predict_price: [1357.4275   697.4125   789.115    736.6525   967.37125]
+data1_predict_date: [381 382 383 386 387]
+data2_predict_price: [-148889.10503936  -66380.87933364  -65695.12430551   32298.09369601
+   13082.28600679]
+data2_predict_date: [381 382 383 384 385]
+Success
+Day: 381
+Epoch: 9
+Epoch: 5
+data1_predict_price: [622.535   714.2375  661.775   892.49375 290.83125]
+data1_predict_date: [382 383 386 387 388]
+data2_predict_price: [ 86389.22570572  87074.98073385 185068.19873538 165852.39104615
+ 148384.31329218]
+data2_predict_date: [382 383 384 385 386]
+Success
+Day: 382
+Epoch: 12
+Epoch: 11
+data1_predict_price: [1375.0525  1322.59    1553.30875  951.64625  978.13125]
+data1_predict_date: [383 386 387 388 389]
+data2_predict_price: [  4887.74407813 102880.96207965  83665.15439043  66197.07663646
+ 256951.73291221]
+data2_predict_date: [383 384 385 386 387]
+Success
+Day: 383
+Epoch: 7
+Epoch: 7
+data1_predict_price: [1230.6375  1461.35625  859.69375  886.17875  876.6225 ]
+data1_predict_date: [386 387 388 389 390]
+data2_predict_price: [102186.79266852  82970.9849793   65502.90722533 256257.56350107
+ 251208.67467468]
+data2_predict_date: [384 385 386 387 388]
+Success
+Day: 384
+Epoch: 14
+Epoch: 8
+data1_predict_price: [1230.6375  1461.35625  859.69375  886.17875  876.6225 ]
+data1_predict_date: [386 387 388 389 390]
+data2_predict_price: [-15051.53768922 -32519.61544319 158235.04083255 153186.15200616
+ 135719.68869325]
+data2_predict_date: [385 386 387 388 389]
+Success
+Day: 385
+Epoch: 14
+Epoch: 6
+data1_predict_price: [1230.6375  1461.35625  859.69375  886.17875  876.6225 ]
+data1_predict_date: [386 387 388 389 390]
+data2_predict_price: [-13107.35478697 177647.30148878 172598.41266238 155131.94934948
+ 271860.0348562 ]
+data2_predict_date: [386 387 388 389 390]
+Success
+Day: 386
+Epoch: 26
+Epoch: 5
+data1_predict_price: [1504.41875  902.75625  929.24125  919.685    596.055  ]
+data1_predict_date: [387 388 389 390 393]
+data2_predict_price: [195141.54002574 190092.65119935 172626.18788645 289354.27339316
+ 304857.50818503]
+data2_predict_date: [387 388 389 390 391]
+Success
+Day: 387
+Epoch: 7
+Epoch: 5
+data1_predict_price: [669.5875  696.0725  686.51625 362.88625 277.815  ]
+data1_predict_date: [388 389 390 393 394]
+data2_predict_price: [  -654.81882639 -18121.2821393   98606.80336742 114110.03815929
+ 118334.4565945 ]
+data2_predict_date: [388 389 390 391 392]
+Success
+Day: 388
+Epoch: 23
+Epoch: 5
+data1_predict_price: [1300.735   1291.17875  967.54875  882.4775   984.4775 ]
+data1_predict_date: [389 390 393 394 395]
+data2_predict_price: [-13241.28831291 103486.79719381 118990.03198568 123214.45042089
+  22772.88932451]
+data2_predict_date: [389 390 391 392 393]
+Success
+Day: 389
+Epoch: 18
+Epoch: 8
+data1_predict_price: [1264.94375  941.31375  856.2425   958.2425   965.84875]
+data1_predict_date: [390 393 394 395 396]
+data2_predict_price: [121066.93750672 136570.17229859 140794.5907338   40353.02963742
+ 107877.53629784]
+data2_predict_date: [390 391 392 393 394]
+Success
+Day: 390
+Epoch: 26
+Epoch: 15
+data1_predict_price: [938.17    853.09875 955.09875 962.705   525.8025 ]
+data1_predict_date: [393 394 395 396 397]
+data2_predict_price: [ 19821.81479187  24046.23322708 -76395.3278693   -8870.82120888
+ -20968.09876613]
+data2_predict_date: [391 392 393 394 395]
+Success
+Day: 391
+Epoch: 19
+Epoch: 6
+data1_predict_price: [938.17    853.09875 955.09875 962.705   525.8025 ]
+data1_predict_date: [393 394 395 396 397]
+data2_predict_price: [  8600.61010221 -91840.95099417 -24316.44433375 -36413.721891
+  -2215.49498047]
+data2_predict_date: [392 393 394 395 396]
+Success
+Day: 392
+Epoch: 9
+Epoch: 11
+data1_predict_price: [938.17    853.09875 955.09875 962.705   525.8025 ]
+data1_predict_date: [393 394 395 396 397]
+data2_predict_price: [-95839.28021338 -28314.77355296 -40412.05111021  -6213.82419968
+ 128130.60053241]
+data2_predict_date: [393 394 395 396 397]
+Success
+Day: 393
+Epoch: 5
+Epoch: 5
+data1_predict_price: [1193.67875 1295.67875 1303.285    866.3825  1447.21625]
+data1_predict_date: [394 395 396 397 400]
+data2_predict_price: [ 72130.16666042  60032.88910317  94231.1160137  228575.54074579
+ 230536.92830945]
+data2_predict_date: [394 395 396 397 398]
+Success
+Day: 394
+Epoch: 12
+Epoch: 8
+data1_predict_price: [1393.4     1401.00625  964.10375 1544.9375  1978.17375]
+data1_predict_date: [395 396 397 400 401]
+data2_predict_price: [ -7314.99755725  26883.22935328 161227.65408537 163189.04164903
+ 268128.0416167 ]
+data2_predict_date: [395 396 397 398 399]
+Success
+Day: 395
+Epoch: 19
+Epoch: 6
+data1_predict_price: [1296.85625  859.95375 1440.7875  1874.02375 1799.25   ]
+data1_predict_date: [396 397 400 401 402]
+data2_predict_price: [ 39017.71267753 173362.13740962 175323.52497328 280262.52494095
+ 302331.10425002]
+data2_predict_date: [396 397 398 399 400]
+Success
+Day: 396
+Epoch: 24
+Epoch: 9
+data1_predict_price: [ 853.3475  1434.18125 1867.4175  1792.64375 1825.99375]
+data1_predict_date: [397 400 401 402 403]
+data2_predict_price: [139166.59473209 141127.98229575 246066.98226342 268135.56157249
+ 269683.89712453]
+data2_predict_date: [397 398 399 400 401]
+Success
+Day: 397
+Epoch: 11
+Epoch: 9
+data1_predict_price: [1880.43375 2313.67    2238.89625 2272.24625 2592.21   ]
+data1_predict_date: [400 401 402 403 404]
+data2_predict_price: [  7950.9330393  130158.19620984 155941.15025387 157847.66790897
+ 670842.37756644]
+data2_predict_date: [398 399 400 401 402]
+Success
+Day: 398
+Epoch: 5
+Epoch: 6
+data1_predict_price: [1880.43375 2313.67    2238.89625 2272.24625 2592.21   ]
+data1_predict_date: [400 401 402 403 404]
+data2_predict_price: [127946.70190354 153729.65594757 155636.17360267 668630.88326015
+ 790154.92199275]
+data2_predict_date: [399 400 401 402 403]
+Success
+Day: 399
+Epoch: 15
+Epoch: 5
+data1_predict_price: [1880.43375 2313.67    2238.89625 2272.24625 2592.21   ]
+data1_predict_date: [400 401 402 403 404]
+data2_predict_price: [ 31608.94404403  33515.46169913 546510.17135661 668034.21008921
+ 727946.43231207]
+data2_predict_date: [400 401 402 403 404]
+Success
+Day: 400
+Epoch: 13
+Epoch: 6
+data1_predict_price: [1736.53625 1661.7625  1695.1125  2015.07625 2141.10375]
+data1_predict_date: [401 402 403 404 407]
+data2_predict_price: [  7617.7235221  520612.43317957 642136.47191218 702048.69413504
+ 622709.51834813]
+data2_predict_date: [401 402 403 404 405]
+Success
+Day: 401
+Epoch: 18
+Epoch: 5
+data1_predict_price: [1209.97625 1243.32625 1563.29    1689.3175  1051.61375]
+data1_predict_date: [402 403 404 407 408]
+data2_predict_price: [518598.42259748 640122.46133008 700034.68355294 620695.50776604
+ 546399.2138006 ]
+data2_predict_date: [402 403 404 405 406]
+Success
+Day: 402
+Epoch: 12
+Epoch: 5
+data1_predict_price: [1313.55    1633.51375 1759.54125 1121.8375   964.68375]
+data1_predict_date: [403 404 407 408 409]
+data2_predict_price: [127118.6987326  187030.92095546 107691.74516856  33395.45120312
+  27184.08323585]
+data2_predict_date: [403 404 405 406 407]
+Success
+Day: 403
+Epoch: 15
+Epoch: 5
+data1_predict_price: [1606.36375 1732.39125 1094.6875   937.53375 1149.37375]
+data1_predict_date: [404 407 408 409 410]
+data2_predict_price: [ 65639.85572286 -13699.32006405 -87995.61402949 -94206.98199675
+  -2187.33681705]
+data2_predict_date: [404 405 406 407 408]
+Success
+Day: 404
+Epoch: 11
+Epoch: 5
+data1_predict_price: [1407.2275   769.52375  612.37     824.21     644.745  ]
+data1_predict_date: [407 408 409 410 411]
+data2_predict_price: [ -73359.7159469  -147656.00991234 -153867.37787961  -61847.73269991
+  112375.16201976]
+data2_predict_date: [405 406 407 408 409]
+Success
+Day: 405
+Epoch: 5
+Epoch: 5
+data1_predict_price: [1407.2275   769.52375  612.37     824.21     644.745  ]
+data1_predict_date: [407 408 409 410 411]
+data2_predict_price: [-68309.85396544 -74521.22193271  17498.42324699 191721.31796667
+ 196599.06591955]
+data2_predict_date: [406 407 408 409 410]
+Success
+Day: 406
+Epoch: 16
+Epoch: 5
+data1_predict_price: [1407.2275   769.52375  612.37     824.21     644.745  ]
+data1_predict_date: [407 408 409 410 411]
+data2_predict_price: [-2.28183417e+02  9.17914618e+04  2.66014356e+05  2.70892104e+05
+  2.68690506e+05]
+data2_predict_date: [407 408 409 410 411]
+Success
+Day: 407
+Epoch: 9
+Epoch: 5
+data1_predict_price: [637.19625 480.0425  691.8825  512.4175  295.195  ]
+data1_predict_date: [408 409 410 411 414]
+data2_predict_price: [ 97895.7250467  272118.61976637 276996.36771926 274794.76945691
+ 200767.00015116]
+data2_predict_date: [408 409 410 411 412]
+Success
+Day: 408
+Epoch: 7
+Epoch: 5
+data1_predict_price: [1119.29625 1331.13625 1151.67125  934.44875  986.6775 ]
+data1_predict_date: [409 410 411 414 415]
+data2_predict_price: [180123.48471967 185001.23267256 182799.63441021 108771.86510446
+ 125774.02459811]
+data2_predict_date: [409 410 411 412 413]
+Success
+Day: 409
+Epoch: 17
+Epoch: 6
+data1_predict_price: [1486.84    1307.375   1090.1525  1142.38125 1091.635  ]
+data1_predict_date: [410 411 414 415 416]
+data2_predict_price: [  10547.37048589    8345.77222354  -65681.99708221  -48679.83758856
+ -208375.92867668]
+data2_predict_date: [410 411 412 413 414]
+Success
+Day: 410
+Epoch: 10
+Epoch: 6
+data1_predict_price: [1094.285    877.0625   929.29125  878.545    834.66375]
+data1_predict_date: [411 414 415 416 417]
+data2_predict_price: [   3691.54015465  -70336.2291511   -53334.06965745 -213030.16074556
+  -58387.87915351]
+data2_predict_date: [411 412 413 414 415]
+Success
+Day: 411
+Epoch: 8
+Epoch: 5
+data1_predict_price: [1049.2275  1101.45625 1050.71    1006.82875  755.28125]
+data1_predict_date: [414 415 416 417 418]
+data2_predict_price: [ -68137.94930575  -51135.7898121  -210831.88090022  -56189.59930816
+  -58434.74799819]
+data2_predict_date: [412 413 414 415 416]
+Success
+Day: 412
+Epoch: 6
+Epoch: 5
+data1_predict_price: [1049.2275  1101.45625 1050.71    1006.82875  755.28125]
+data1_predict_date: [414 415 416 417 418]
+data2_predict_price: [  22778.85644365 -136917.23464447   17725.04694759   15479.89825756
+  -62710.40788218]
+data2_predict_date: [413 414 415 416 417]
+Success
+Day: 413
+Epoch: 20
+Epoch: 7
+data1_predict_price: [1049.2275  1101.45625 1050.71    1006.82875  755.28125]
+data1_predict_date: [414 415 416 417 418]
+data2_predict_price: [-153540.65706811    1101.62452394   -1143.52416609  -79333.83030583
+  182665.46426673]
+data2_predict_date: [414 415 416 417 418]
+Success
+Day: 414
+Epoch: 5
+Epoch: 5
+data1_predict_price: [1324.22875 1273.4825  1229.60125  978.05375 1167.5825 ]
+data1_predict_date: [415 416 417 418 421]
+data2_predict_price: [160778.77159206 158533.62290202  80343.31676229 342342.61133484
+ 329290.18750841]
+data2_predict_date: [415 416 417 418 419]
+Success
+Day: 415
+Epoch: 15
+Epoch: 6
+data1_predict_price: [1219.40375 1175.5225   923.975   1113.50375 1049.0275 ]
+data1_predict_date: [416 417 418 421 422]
+data2_predict_price: [  4143.49647697 -74046.80966277 187952.48490978 174900.06108336
+ 349350.38535319]
+data2_predict_date: [416 417 418 419 420]
+Success
+Day: 416
+Epoch: 11
+Epoch: 9
+data1_predict_price: [1233.16875  981.62125 1171.15    1106.67375 1342.54125]
+data1_predict_date: [417 418 421 422 423]
+data2_predict_price: [-71524.99945674 190474.29511582 177421.87128939 351872.19555922
+ 543272.06451104]
+data2_predict_date: [417 418 419 420 421]
+Success
+Day: 417
+Epoch: 13
+Epoch: 5
+data1_predict_price: [1027.6525  1217.18125 1152.705   1388.5725  1461.39625]
+data1_predict_date: [418 421 422 423 424]
+data2_predict_price: [268751.27457255 255698.85074613 430149.17501596 621549.04396778
+ 681545.68072046]
+data2_predict_date: [418 419 420 421 422]
+Success
+Day: 418
+Epoch: 9
+Epoch: 7
+data1_predict_price: [1456.72875 1392.2525  1628.12    1700.94375 1288.06875]
+data1_predict_date: [421 422 423 424 425]
+data2_predict_price: [ -5854.70376643 168595.62050341 359995.48945523 419992.1262079
+ 728333.29621982]
+data2_predict_date: [419 420 421 422 423]
+Success
+Day: 419
+Epoch: 7
+Epoch: 5
+data1_predict_price: [1456.72875 1392.2525  1628.12    1700.94375 1288.06875]
+data1_predict_date: [421 422 423 424 425]
+data2_predict_price: [181887.86758683 373287.73653865 433284.37329133 741625.54330324
+ 907546.63869614]
+data2_predict_date: [420 421 422 423 424]
+Success
+Day: 420
+Epoch: 6
+Epoch: 5
+data1_predict_price: [1456.72875 1392.2525  1628.12    1700.94375 1288.06875]
+data1_predict_date: [421 422 423 424 425]
+data2_predict_price: [198765.85895182 258762.4957045  567103.66571641 733024.7611093
+ 683585.70008167]
+data2_predict_date: [421 422 423 424 425]
+Success
+Day: 421
+Epoch: 7
+Epoch: 5
+data1_predict_price: [1206.42375 1442.29125 1515.115   1102.24    1228.2675 ]
+data1_predict_date: [422 423 424 425 428]
+data2_predict_price: [ 66985.70841968 375326.87843159 541247.97382448 491808.91279685
+ 231167.52281328]
+data2_predict_date: [422 423 424 425 426]
+Success
+Day: 422
+Epoch: 7
+Epoch: 5
+data1_predict_price: [1511.4675  1584.29125 1171.41625 1297.44375 1457.79625]
+data1_predict_date: [423 424 425 428 429]
+data2_predict_price: [315433.29724491 481354.39263781 431915.33161017 171273.9416266
+ 242601.17933567]
+data2_predict_date: [423 424 425 426 427]
+Success
+Day: 423
+Epoch: 8
+Epoch: 7
+data1_predict_price: [1356.82375  943.94875 1069.97625 1230.32875 1517.68375]
+data1_predict_date: [424 425 428 429 430]
+data2_predict_price: [ 173049.73539289  123610.67436526 -137030.71561831  -65703.47790925
+  -40399.82963469]
+data2_predict_date: [424 425 426 427 428]
+Success
+Day: 424
+Epoch: 12
+Epoch: 5
+data1_predict_price: [ 871.925   997.9525 1158.305  1445.66   1472.145 ]
+data1_predict_date: [425 428 429 430 431]
+data2_predict_price: [ -42281.02396764 -302922.4139512  -231595.17624214 -206291.52796759
+ -185909.3795762 ]
+data2_predict_date: [425 426 427 428 429]
+Success
+Day: 425
+Epoch: 11
+Epoch: 6
+data1_predict_price: [1410.3275 1570.68   1858.035  1884.52   1866.3825]
+data1_predict_date: [428 429 430 431 432]
+data2_predict_price: [-253921.99213357 -182594.7544245  -157291.10614995 -136908.95775857
+ -440238.9082667 ]
+data2_predict_date: [426 427 428 429 430]
+Success
+Day: 426
+Epoch: 20
+Epoch: 5
+data1_predict_price: [1410.3275 1570.68   1858.035  1884.52   1866.3825]
+data1_predict_date: [428 429 430 431 432]
+data2_predict_price: [  77896.45770906  103200.10598362  123582.254375   -179747.69613314
+ -283566.54401452]
+data2_predict_date: [427 428 429 430 431]
+Success
+Day: 427
+Epoch: 7
+Epoch: 10
+data1_predict_price: [1410.3275 1570.68   1858.035  1884.52   1866.3825]
+data1_predict_date: [428 429 430 431 432]
+data2_predict_price: [   34771.46795774    58153.44130171  -291619.36886495  -411408.4293919
+ -1091476.72670327]
+data2_predict_date: [428 429 430 431 432]
+Success
+Day: 428
+Epoch: 15
+Epoch: 5
+data1_predict_price: [1438.3025  1725.6575  1752.1425  1734.005   1515.06625]
+data1_predict_date: [429 430 431 432 435]
+data2_predict_price: [   31334.86383318  -338632.67266723  -465305.49906107 -1184685.30890807
+  -481343.15951526]
+data2_predict_date: [429 430 431 432 433]
+Success
+Day: 429
+Epoch: 5
+Epoch: 5
+data1_predict_price: [1561.955   1588.44    1570.3025  1351.36375 1235.4    ]
+data1_predict_date: [430 431 432 435 436]
+data2_predict_price: [ -363473.90650041  -490146.73289425 -1209526.54274125  -506184.39334844
+  -553929.50444551]
+data2_predict_date: [430 431 432 433 434]
+Success
+Day: 430
+Epoch: 13
+Epoch: 5
+data1_predict_price: [1308.685   1290.5475  1071.60875  955.645   1215.54   ]
+data1_predict_date: [431 432 435 436 437]
+data2_predict_price: [-119371.39647384 -838751.20632084 -135409.05692803 -183154.1680251
+  498152.70809892]
+data2_predict_date: [431 432 433 434 435]
+Success
+Day: 431
+Epoch: 11
+Epoch: 30
+data1_predict_price: [1261.8625  1042.92375  926.96    1186.855   1110.365  ]
+data1_predict_date: [432 435 436 437 438]
+data2_predict_price: [-711564.779147     -8222.62975419  -55967.74085126  625339.13527276
+ 1058511.93035416]
+data2_predict_date: [432 433 434 435 436]
+Success
+Day: 432
+Epoch: 12
+Epoch: 7
+data1_predict_price: [1065.41125  949.4475  1209.3425  1132.8525  1281.19125]
+data1_predict_date: [435 436 437 438 439]
+data2_predict_price: [ 711210.91939281  663465.80829574 1344772.68441976 1777945.47950117
+ 1823260.90101343]
+data2_predict_date: [433 434 435 436 437]
+Success
+Day: 433
+Epoch: 19
+Epoch: 6
+data1_predict_price: [1065.41125  949.4475  1209.3425  1132.8525  1281.19125]
+data1_predict_date: [435 436 437 438 439]
+data2_predict_price: [ -39927.97071407  641378.90540995 1074551.70049136 1119867.12200362
+ 1076312.06146671]
+data2_predict_date: [434 435 436 437 438]
+Success
+Day: 434
+Epoch: 18
+Epoch: 6
+data1_predict_price: [1065.41125  949.4475  1209.3425  1132.8525  1281.19125]
+data1_predict_date: [435 436 437 438 439]
+data2_predict_price: [ 689314.53019102 1122487.32527243 1167802.74678469 1124247.68624778
+ 1284921.65736019]
+data2_predict_date: [435 436 437 438 439]
+Success
+Day: 435
+Epoch: 11
+Epoch: 5
+data1_predict_price: [1170.23625 1430.13125 1353.64125 1501.98    1564.50625]
+data1_predict_date: [436 437 438 439 442]
+data2_predict_price: [441222.5150814  486537.93659367 442982.87605676 603656.84716917
+ 639126.69199749]
+data2_predict_date: [436 437 438 439 440]
+Success
+Day: 436
+Epoch: 12
+Epoch: 13
+data1_predict_price: [1543.195   1466.705   1615.04375 1677.57    1577.0525 ]
+data1_predict_date: [437 438 439 442 443]
+data2_predict_price: [ 53375.22151226   9820.16097535 170494.13208776 205963.97691609
+ 214456.17629227]
+data2_predict_date: [437 438 439 440 441]
+Success
+Day: 437
+Epoch: 14
+Epoch: 24
+data1_predict_price: [1210.46    1358.79875 1421.325   1320.8075  1445.11875]
+data1_predict_date: [438 439 442 443 444]
+data2_predict_price: [-35287.02553691 125386.9455755  160856.79040382 169348.98978
+ 344969.51192763]
+data2_predict_date: [438 439 440 441 442]
+Success
+Day: 438
+Epoch: 7
+Epoch: 18
+data1_predict_price: [1438.68875 1501.215   1400.6975  1525.00875 1640.73875]
+data1_predict_date: [439 442 443 444 445]
+data2_predict_price: [168910.69111241 204380.53594073 212872.73531691 388493.25746454
+ 362071.99555473]
+data2_predict_date: [439 440 441 442 443]
+Success
+Day: 439
+Epoch: 5
+Epoch: 33
+data1_predict_price: [1353.02625 1252.50875 1376.82    1492.55    1496.72375]
+data1_predict_date: [442 443 444 445 446]
+data2_predict_price: [ 43720.82316132  52213.0225375  227833.54468513 201412.28277532
+ 213428.58089375]
+data2_predict_date: [440 441 442 443 444]
+Success
+Day: 440
+Epoch: 14
+Epoch: 18
+data1_predict_price: [1353.02625 1252.50875 1376.82    1492.55    1496.72375]
+data1_predict_date: [442 443 444 445 446]
+data2_predict_price: [ 17199.60664318 192820.1287908  166398.866881   178415.16499943
+ 563367.95689279]
+data2_predict_date: [441 442 443 444 445]
+Success
+Day: 441
+Epoch: 7
+Epoch: 8
+data1_predict_price: [1353.02625 1252.50875 1376.82    1492.55    1496.72375]
+data1_predict_date: [442 443 444 445 446]
+data2_predict_price: [184389.32214762 157968.06023782 169984.35835625 554937.15024961
+ 606707.646934  ]
+data2_predict_date: [442 443 444 445 446]
+Success
+Day: 442
+Epoch: 5
+Epoch: 16
+data1_predict_price: [1194.3825  1318.69375 1434.42375 1438.5975  1588.6525 ]
+data1_predict_date: [443 444 445 446 449]
+data2_predict_price: [ -18454.70549305   -5556.71146847  405828.40553306  461204.23821713
+ 1316943.85901855]
+data2_predict_date: [443 444 445 446 447]
+Success
+Day: 443
+Epoch: 7
+Epoch: 10
+data1_predict_price: [1416.16125 1531.89125 1536.065   1686.12    1580.45375]
+data1_predict_date: [444 445 446 449 450]
+data2_predict_price: [  22850.50284459  434235.61984611  489611.45253018 1345351.0733316
+ 1556474.38825052]
+data2_predict_date: [444 445 446 447 448]
+Success
+Day: 444
+Epoch: 5
+Epoch: 13
+data1_predict_price: [1399.58    1403.75375 1553.80875 1448.1425  1172.5675 ]
+data1_predict_date: [445 446 449 450 451]
+data2_predict_price: [ 421304.11700153  476679.9496856  1332419.57048702 1543542.88540594
+ 1513392.7995068 ]
+data2_predict_date: [445 446 447 448 449]
+Success
+Day: 445
+Epoch: 5
+Epoch: 17
+data1_predict_price: [1284.37375 1434.42875 1328.7625  1053.1875   926.92625]
+data1_predict_date: [446 449 450 451 452]
+data2_predict_price: [  65523.20468407  921262.82548549 1132386.14040441 1102236.05450527
+ 1308094.72696463]
+data2_predict_date: [446 447 448 449 450]
+Success
+Day: 446
+Epoch: 10
+Epoch: 18
+data1_predict_price: [1425.555   1319.88875 1044.31375  918.0525   755.75   ]
+data1_predict_date: [449 450 451 452 453]
+data2_predict_price: [ 866623.53280142 1077746.84772034 1047596.7618212  1253455.43428056
+ 1917278.53008915]
+data2_predict_date: [447 448 449 450 451]
+Success
+Day: 447
+Epoch: 7
+Epoch: 20
+data1_predict_price: [1425.555   1319.88875 1044.31375  918.0525   755.75   ]
+data1_predict_date: [449 450 451 452 453]
+data2_predict_price: [ 222003.19491892  191853.10901978  397711.78147914 1061534.87728773
+ 1057949.50005476]
+data2_predict_date: [448 449 450 451 452]
+Success
+Day: 448
+Epoch: 6
+Epoch: 5
+data1_predict_price: [1425.555   1319.88875 1044.31375  918.0525   755.75   ]
+data1_predict_date: [449 450 451 452 453]
+data2_predict_price: [ -18817.46389914  187041.20856022  850864.30436881  847278.92713584
+ 1255341.3543906 ]
+data2_predict_date: [449 450 451 452 453]
+Success
+Day: 449
+Epoch: 12
+Epoch: 28
+data1_predict_price: [1167.78375  892.20875  765.9475   603.645    532.30375]
+data1_predict_date: [450 451 452 453 456]
+data2_predict_price: [ 217443.50245936  881266.59826795  877681.22103498 1285743.64828974
+ 1513083.48444881]
+data2_predict_date: [450 451 452 453 454]
+Success
