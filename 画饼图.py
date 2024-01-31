@@ -19,10 +19,6 @@ errorA2 = ARIMA['error2']
 errorD1 = GP['error1']
 errorD2 = GP['error2']
 
-errorA4D = errorA1/errorD1
-# errorA4D = errorA4D[errorA4D<1] # 1073
-errorA4D = errorA4D[errorA4D>1] # 702
-
 #-----------------画饼--------------------
 # 数据
 data = [1073, 702]
@@ -39,12 +35,3 @@ plt.title('Pie Chart: A vs B')
 
 # 显示图表
 plt.show()
-
-# print(errorA4D)
-
-# sns.set_style('whitegrid')       # 图片风格
-# sns.set(font='Times New Roman')  # 图片全局字体
-
-# sns.lineplot(x=df_after_drop['Date'],y=errorA4D)
-
-# plt.show()

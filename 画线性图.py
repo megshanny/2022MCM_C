@@ -16,8 +16,8 @@ sns.set_style('whitegrid')       # 图片风格
 sns.set(font='Times New Roman')  # 图片全局字体
 
 sns.lineplot(x=x1,y=money_history)
-# plt.xticks(fontweight='bold')  横坐标值加粗
-# plt.yticks(fontweight='bold')  纵坐标值加粗
+plt.xticks(fontweight='bold')  # 横坐标值加粗
+plt.yticks(fontweight='bold')  # 纵坐标值加粗
 
 plt.title('Daily Investment Worth Increase under Model-based Decision',fontweight = 'bold')
 plt.xlabel('Date')

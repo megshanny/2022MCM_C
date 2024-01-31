@@ -13,7 +13,6 @@ sns.heatmap(errors, cmap="GnBu", annot=True, fmt=".5f", yticklabels=['Gold', 'Bi
 plt.rcParams.update({'font.size': 14})
 # 添加标签和标题
 plt.ylabel('Mean Relative Error')
-# plt.ylabel('Model')
 # plt.title('Comparison of autoreg and GM(1,1) Errors')
 
 # 显示图表

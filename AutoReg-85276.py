@@ -372,50 +372,50 @@ while(Day < data1['DayFromBegin'].max()):
         print(Day, '/', data1['DayFromBegin'].max())
 
 
-# # 预测结果图{
-# base_date = '2016-9-11'
-# x1 = pd.to_timedelta(x1, unit='D')
-# x1 = pd.to_datetime(base_date) + x1 
-# x2 = pd.to_timedelta(x2, unit='D')
-# x2 = pd.to_datetime(base_date) + x2
-# print(choose_dict)
-# print(money_history[-1])
+# 预测结果图{
+base_date = '2016-9-11'
+x1 = pd.to_timedelta(x1, unit='D')
+x1 = pd.to_datetime(base_date) + x1 
+x2 = pd.to_timedelta(x2, unit='D')
+x2 = pd.to_datetime(base_date) + x2
+print(choose_dict)
+print(money_history[-1])
 
-# sns.set_style('whitegrid')
-# sns.set(font='Times New Roman')
+sns.set_style('whitegrid')
+sns.set(font='Times New Roman')
 
-# plt.figure(figsize=(12, 10))
-# # 黄金预测
-# # plt.subplot(211)
-# # plt.plot(x1, y1, label='predict') 
-# # plt.plot(data1['Date'], data1['USD (PM)'], label = 'real')
-# # plt.legend()
-# # plt.xlabel('Date')
-# # plt.ylabel('Predicted Gold Price/($)')
-# # plt.title('Gold Price')
-# # 比特币预测
-# # plt.subplot(212)
-# plt.plot(x2, y2, label='predict')
-# plt.plot(data2['Date'], data2['Value'], label = 'real')
+plt.figure(figsize=(12, 10))
+# 黄金预测
+# plt.subplot(211)
+# plt.plot(x1, y1, label='predict') 
+# plt.plot(data1['Date'], data1['USD (PM)'], label = 'real')
 # plt.legend()
 # plt.xlabel('Date')
-# plt.ylabel('Predicted Bitcoin Price/($)')
-# # plt.title('Bitcoin Price')
-# # plt.subplots_adjust(hspace=0.3)
-# plt.show()
+# plt.ylabel('Predicted Gold Price/($)')
+# plt.title('Gold Price')
+# 比特币预测
+# plt.subplot(212)
+plt.plot(x2, y2, label='predict')
+plt.plot(data2['Date'], data2['Value'], label = 'real')
+plt.legend()
+plt.xlabel('Date')
+plt.ylabel('Predicted Bitcoin Price/($)')
+# plt.title('Bitcoin Price')
+# plt.subplots_adjust(hspace=0.3)
+plt.show()
 
-# # 预测结果图}
+# 预测结果图}
         
 # error平均值
-# error_history1 = np.abs(error_history1)
-# error_history2 = np.abs(error_history2)
+error_history1 = np.abs(error_history1)
+error_history2 = np.abs(error_history2)
 
-# print('error1 = ',np.mean(error_history1))
-# print('error2 = ',np.mean(error_history2))
+print('error1 = ',np.mean(error_history1))
+print('error2 = ',np.mean(error_history2))
 
-# pd1 = pd.DataFrame({ 'error1':error_history1,'error2':error_history2})
-# # 将 DataFrame 写入 CSV 文件
-# pd1.to_csv('error_history_ARIMA.csv', index=False)
+pd1 = pd.DataFrame({ 'error1':error_history1,'error2':error_history2})
+# 将 DataFrame 写入 CSV 文件
+pd1.to_csv('error_history_ARIMA.csv', index=False)
 
 '''
 autoreg
@@ -428,12 +428,12 @@ error2 =  0.03498940522025023
 '''
 
 if(picture):
-#     # error图
-#     plt.figure(figsize=(8,15))
-#     plt.subplot(2,1,1)
-#     plt.plot(error_history1)
-#     plt.subplot(2,1,2)
-#     plt.plot(error_history2)
+    # error图
+    plt.figure(figsize=(8,15))
+    plt.subplot(2,1,1)
+    plt.plot(error_history1)
+    plt.subplot(2,1,2)
+    plt.plot(error_history2)
     # plt.subplot(5,1,3)
     # plt.plot(error_check1)
     # plt.subplot(5,1,4)
