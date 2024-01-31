@@ -51,7 +51,7 @@ import pandas as pd
 # 假设你的数据框名为 df，其中有一个名为 'days_from_base_date' 的列，表示与基准日期的天数差
 base_date = '2016-9-11'
 x1 = pd.to_timedelta(x1, unit='D')
-x1 = pd.to_datetime(base_date) + x1
+x1 = pd.to_datetime(base_date) + x1 
 x2 = pd.to_timedelta(x2, unit='D')
 x2 = pd.to_datetime(base_date) + x2
 print(data2['Date'])

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
+import seaborn as sns
 error_history1 = []
 error_history2 = []
 error_check1 = []
@@ -12,10 +12,12 @@ rowname1 = 'USD (PM)'
 data2 = pd.read_csv('.\BCHAIN-MKPRU.csv')
 rowname2 = 'Value'
 data1 = data1.dropna(how='any')
-data1['DayFromBegin'] = pd.to_datetime(data1['Date'],format='%m/%d/%y').map(lambda x: (x - pd.to_datetime('2016-9-11')).days)
+data1['Date'] = pd.to_datetime(data1['Date'],format='%m/%d/%y')
+data1['DayFromBegin'] = data1['Date'].map(lambda x: (x - pd.to_datetime('2016-9-11')).days)
 data1['RowNumber'] = range(0, len(data1))
 data2 = data2.dropna(how='any')
-data2['DayFromBegin'] = pd.to_datetime(data2['Date'],format='%m/%d/%y').map(lambda x: (x - pd.to_datetime('2016-9-11')).days)
+data2['Date'] = pd.to_datetime(data2['Date'],format='%m/%d/%y')
+data2['DayFromBegin'] = data2['Date'].map(lambda x: (x - pd.to_datetime('2016-9-11')).days)
 data2['RowNumber'] = range(0, len(data2))
 
 # data_dict = {}
@@ -232,14 +234,16 @@ from statsmodels.tsa.ar_model import AutoReg
 0.015,0.025:16526 {'gold': 0, 'bitcoin': 980, 'money': 795}
 '''
 #这里的参数是[数据长度,预测长度,权重，方法]，或[黄金的四个参数,比特币的四个参数]
-params = [[67,5,0.618,0]  #长期
+params = [
+          [67,5,0.618,0]  #长期
         #  ,[68,5,0.618,0]
          ,[69,5,0.618,0]
 
          ,[27,3,0.382,0]  #短期
         #  ,[28,3,0.382,0]
          ,[29,3,0.382,0]
-         ] 
+    # [5,5,1,1]
+        ] 
 
 Day = 50
 fee1 = 0.01
@@ -255,11 +259,8 @@ def predict_0(data_price, length):
     return data_predict_price
 
 def predict_1(data_price, length):
-    data_need_predict = np.diff(data_price)
-    model = AutoReg(data_need_predict,lags=1,trend = 'ct')
-    model_fit = model.fit()
-    data_predict = model_fit.predict(len(data_need_predict), len(data_need_predict)+length-1)
-    data_predict_price = np.cumsum(data_predict) + data_price[-1]
+    p = GM_11_fit(data_price)
+    data_predict_price = GM_11_predicate(data_price[0],p,data_price.__len__(),data_price.__len__()+length)
     return data_predict_price
 
 # def predict_2(Day, length, type):
@@ -282,6 +283,10 @@ last_choose = 0
 money_history = [1000,1000]
 money_time = [0,Day]
 
+x1 = []
+x2 = []
+y1 = []
+y2 = []
 while(Day < data1['DayFromBegin'].max()):
     data1_price = data1[data1['DayFromBegin'] <= Day][rowname1].to_numpy()
     data2_price = data2[data2['DayFromBegin'] <= Day][rowname2].to_numpy()
@@ -333,10 +338,10 @@ while(Day < data1['DayFromBegin'].max()):
     true_data2_price = data2[data2['DayFromBegin'] > Day]['Value'].to_numpy()[0]
     error1 = (data1_predict_price[0] - true_data1_price) / true_data1_price
     error2 = (data2_predict_price[0] - true_data2_price) / true_data2_price
-    if(true_data1_price - data1_price[-1] <=0):
-        error1 = -error1
-    if(true_data2_price - data2_price[-1] <=0):
-        error2 = -error2
+    # if(true_data1_price - data1_price[-1] <=0):
+    #     error1 = -error1
+    # if(true_data2_price - data2_price[-1] <=0):
+    #     error2 = -error2
     error_history1.append(error1)
     error_history2.append(error2)
     data1_predict_date = data1[data1['DayFromBegin'] > Day]['DayFromBegin'].to_numpy()
@@ -350,6 +355,12 @@ while(Day < data1['DayFromBegin'].max()):
     else:
         data2_predict_date = data2_predict_date[0:max_data2_predict_length]
     pre_length = min(max_data1_predict_length, max_data2_predict_length)
+    if(data1_predict_date[0] not in x1):
+        x1.append(data1_predict_date[0])
+        y1.append(data1_predict_price[0])
+    if(data2_predict_date[0] not in x2):
+        x2.append(data2_predict_date[0])
+        y2.append(data2_predict_price[0])
     choose_type, money = choose(data1_predict_price, data1_predict_date, data2_predict_price, data2_predict_date, fee1, fee2, Day, Day + pre_length, last_choose, calculate = True, begin_money = money_history[-1])
     choose_dict[name_dict[choose_type]] += 1
     money_history.append(money)
@@ -360,20 +371,89 @@ while(Day < data1['DayFromBegin'].max()):
     if(Day % 50 == 0):
         print(Day, '/', data1['DayFromBegin'].max())
 
-print(choose_dict)
-print(money_history[-1])
+
+# # 预测结果图{
+# base_date = '2016-9-11'
+# x1 = pd.to_timedelta(x1, unit='D')
+# x1 = pd.to_datetime(base_date) + x1 
+# x2 = pd.to_timedelta(x2, unit='D')
+# x2 = pd.to_datetime(base_date) + x2
+# print(choose_dict)
+# print(money_history[-1])
+
+# sns.set_style('whitegrid')
+# sns.set(font='Times New Roman')
+
+# plt.figure(figsize=(12, 10))
+# # 黄金预测
+# # plt.subplot(211)
+# # plt.plot(x1, y1, label='predict') 
+# # plt.plot(data1['Date'], data1['USD (PM)'], label = 'real')
+# # plt.legend()
+# # plt.xlabel('Date')
+# # plt.ylabel('Predicted Gold Price/($)')
+# # plt.title('Gold Price')
+# # 比特币预测
+# # plt.subplot(212)
+# plt.plot(x2, y2, label='predict')
+# plt.plot(data2['Date'], data2['Value'], label = 'real')
+# plt.legend()
+# plt.xlabel('Date')
+# plt.ylabel('Predicted Bitcoin Price/($)')
+# # plt.title('Bitcoin Price')
+# # plt.subplots_adjust(hspace=0.3)
+# plt.show()
+
+# # 预测结果图}
+        
+# error平均值
+# error_history1 = np.abs(error_history1)
+# error_history2 = np.abs(error_history2)
+
+# print('error1 = ',np.mean(error_history1))
+# print('error2 = ',np.mean(error_history2))
+
+# pd1 = pd.DataFrame({ 'error1':error_history1,'error2':error_history2})
+# # 将 DataFrame 写入 CSV 文件
+# pd1.to_csv('error_history_ARIMA.csv', index=False)
+
+'''
+autoreg
+error1 =  0.006302700392062883
+error2 =  0.028156484736807014
+
+GM(1,1)
+error1 =  0.007751788940166315
+error2 =  0.03498940522025023
+'''
 
 if(picture):
-    # plt.figure(figsize=(8,15))
-    # plt.subplot(5,1,1)
-    # plt.plot(error_history1)
-    # plt.subplot(5,1,2)
-    # plt.plot(error_history2)
+#     # error图
+#     plt.figure(figsize=(8,15))
+#     plt.subplot(2,1,1)
+#     plt.plot(error_history1)
+#     plt.subplot(2,1,2)
+#     plt.plot(error_history2)
     # plt.subplot(5,1,3)
     # plt.plot(error_check1)
     # plt.subplot(5,1,4)
     # plt.plot(error_check2)
     # plt.subplot(5,1,5)
-    plt.plot()
-    plt.plot(money_time, money_history)
+
+    # 金钱图
+    base_date = '2016-9-11'
+    x1 = pd.to_timedelta(money_time, unit='D')
+    x1 = pd.to_datetime(base_date) + x1 
+
+    sns.set_style('whitegrid')
+    sns.set(font='Times New Roman')
+
+    sns.lineplot(x=x1,y=money_history)
+    
+    # plt.title('Daily Investment Worth Increase under Model-based Decision',fontweight = 'bold')
+    plt.xlabel('Date')
+    plt.ylabel('Investment Worth/($)')
+    # plt.savefig("GM(1,1)_money.png",dpi=500)
+
+
     plt.show()
