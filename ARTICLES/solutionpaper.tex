@@ -1,0 +1,430 @@
+\documentclass{mcmthesis}
+\mcmsetup{CTeX = false,   % 使用 CTeX 套装时，设置为 true
+        tcn = 2421624, problem = C,
+        sheet = true, titleinsheet = true, keywordsinsheet = true,
+        titlepage = false, abstract = true}
+\usepackage{newtxtext,newtxmath}
+\usepackage{geometry}
+\geometry{
+  a4paper, % 设置纸张大小为A4
+  left=2.54cm, % 设置左边距为2厘米
+  right=2.54cm, % 设置右边距为2厘米
+  top=2.54cm, % 设置上边距为2厘米
+  bottom=2.54cm, % 设置下边距为2厘米
+}
+\setlength{\headheight}{14pt}
+\usepackage{indentfirst} 
+\setlength{\parindent}{2em} %2em代表首行缩进两个字符
+\usepackage{palatino}
+\usepackage{lipsum}
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{float}
+\usepackage{lipsum}
+\makeatletter
+\newenvironment{breakablealgorithm}
+  {% \begin{breakablealgorithm}
+   \begin{center}
+     \refstepcounter{algorithm}% New algorithm
+     \hrule height.8pt depth0pt \kern2pt% \@fs@pre for \@fs@ruled
+     \renewcommand{\caption}[2][\relax]{% Make a new \caption
+       {\raggedright\textbf{\ALG@name~\thealgorithm} ##2\par}%
+       \ifx\relax##1\relax % #1 is \relax
+         \addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##2}%
+       \else % #1 is not \relax
+         \addcontentsline{loa}{algorithm}{\protect\numberline{\thealgorithm}##1}%
+       \fi
+       \kern2pt\hrule\kern2pt
+     }
+  }{% \end{breakablealgorithm}
+     \kern2pt\hrule\relax% \@fs@post for \@fs@ruled
+   \end{center}
+  }
+\makeatother
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amssymb}
+\makeatletter
+\newcommand{\rmnum}[1]{\romannumeral #1}
+\newcommand{\Rmnum}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+\usepackage{amsmath}
+\usepackage{cases}
+\usepackage{hyperref}
+\usepackage{tabularray}
+\title{Your Paper's Title(SHUMOJIAYOUZHAN)}
+
+
+\usepackage{parskip} % Adds spacing between paragraphs
+
+%----------------------------------------------------------------------------------------
+%	MEMO INFORMATION
+%----------------------------------------------------------------------------------------
+
+
+\memoto{the trader our friend} % Recipient(s)
+
+\memofrom{Team \#2421624} % Sender(s)
+
+\memosubject{A Trading Strategy and Results Based on Our Created Model} % Memo subject
+
+\memodate{Monday, December 30, 2013} % Date, set to \today for automatically printing todays date
+
+%\logo{\includegraphics[width=0.3\textwidth]{logo.png}} % Institution logo at the top right of the memo, comment out this line for no logo
+
+\setlength{\parindent}{2em} %2em代表首行缩进两个字符
+\linespread{1.5}
+\begin{document}
+\begin{abstract}
+% 开头段4-6行，介绍问题和所建立的模型（随着xx的发展，xx问题已经成为一个热点话题。为了解决xx问题，本文建立/利用了xx模型，求解得到xx
+Virual currency has become a hit among all ages, and handreds of thousands people (not only the traders) keep track of the price of gold and bitcoin every day. In order to find a optimal strategy of transaction, we developed a Strategy Model with \textbf{ARIMA Model} and \textbf{DP} method, and obtained the final optimal investment worth. 
+% 每个问题包含的方法，结果，解决的问题，求解过程：建立的模型，关键参数设置和理由，求解过程和思路，结果的意义，求解对象少可以直接写数值，较多则总结+见表几
+\par \textbf{For Task 1,} We used \textbf{ARIMA Model} to develop the \textbf{Price Pridiction Model}. For each opening day, we will predict the price of 5 days afterwards with the combination of long-term and short-term predicting results in 61.8\% and 38.2\% percent respectively. According to the prediction,
+the final optimal investment worth. of \$11110449.80806396008, about 110 times higher than the start-up loan (\$1000).
+\par \textbf{For Task 2,} we prove that our model is the most appropriate by comparing our prediction-decision model with other models. When proving the optimal prediction model, we compare the prediction accuracy of the two optimal models---ARIMA model and grey prediction model---in all the models we tried. The MRE (Mean Relative Error) of gold and bitcoin price prediction in ARIMA Model prediction are 0.0063 and 0.0281, which are better than 0.0078 and 0.0350 of GP (Grey Prediction) model. 
+\par \textbf{For Task 3,} we test the holding frequency and trading frequency of each asset under different portfolios at a rate of 0.002, finding that the DP decision model is very sensitive to the change of transaction costs rate. The specific information is shown in the figures. In general, the trading frequency and holding frequency of an asset decrease after the transaction costs rate increases, and when its own transaction costs rate is low, the transaction costs rate of another asset will also have a greater influence on it.
+\par \textbf{For Task 4,} we write a memo to the trader to share our achivement of trading strategy with this model and its result.
+% 最后我们的模型较好的解决了xx问题，在xx情况下能够准确求解xx
+Finally, our model find a favorable strategy to achieve a desirable result of gold and bitcoin transaction under the indicated condition.
+
+\begin{keywords}
+% 题目关键词、使用的主要模型、算法名称、数学名词等
+Gold and Bitcoin Transaction; ARIMA model; Dynamic Programming; Grey Prediction; Mean Relative Error
+\end{keywords}
+\end{abstract}
+\maketitle
+%% Generate the Table of Contents, if it's needed.
+ \tableofcontents
+ \newpage
+%%
+%% Generate the Memorandum, if it's needed.
+
+
+%%\section为一级标题，\subsection为二级标题 \subsubsection为三级标题
+
+\section{Introduction}
+\subsection{Problem Background}
+For some time now, market traders have been worried about the uncertain risk of fiat money and losing confidence in modern monetary system step by step. Gold and bitcoin, as they are difficult to control, possess the ability to keep neutral and safe under any circumstances, drawing the whole world's attention.
+\par Considering two types of virtual currency markets---spot gold market and bitcoin market, traders need more technical assistence for better decision. We will start with \$1000 on 9/11/2016, and the transaction will last for 5 years till 9/10/2021. We hold a portfolio composed of cash in U.S. dollars, gold in troy ounces, and bitcoin in bitcoins.
+\par As virtual currency market gradually expands its influences on the economy, it is crutial for individual traders to make good prediction of price trend, sound consideration of the commission, and cautious determination of their transaction. On each trading day, traders keep a close eye on the figures and force themselves to estimate and react fast. What if they have a more scientific method and gain more accurate forecast!
+
+\subsection{Restatement of the Problem}
+\par Combining background information and restricted conditions identified in the problem statement, we need to accomplish  the following tasks:
+\begin{enumerate}[0]
+\item[$\bullet$]  \textbf{Task 1}\\
+Develop model functioning in providing best trading advice acoording to price data up to the given day and present the value of the initial \$1000 on the last day of the whole period.
+\item[$\bullet$]  \textbf{Task 2}\\
+Offer evidence to prove that our model is the most appropiate.
+\item[$\bullet$]  \textbf{Task 3}\\
+Confirm the sensitivity of our strategy in terms of the trasaction costs by stating the impact that the costs make on our strategy and results.
+\item[$\bullet$] \textbf{Task 4}\\
+Write a memo to the trader to clarify the rationality of our model and strategy with computed results.
+\end{enumerate}
+
+
+\newpage
+\subsection{Our Work}
+Our work flow of this paper is showned in Figure 1 on Page 4.
+\begin {figure} [htbp]
+\centering
+\includegraphics[width=16cm]{flow.png}
+\caption{Work Flow}
+\end {figure}
+
+% \subsection{Literature Review}
+
+\section{Assumptions and Justifications}
+In order to simplify our model, we made some general assumptions which are listed below corresponding with justifications:
+\begin{enumerate}
+\setlength{\leftmargin}{0pt}
+\item \textbf{It is assumed that opening price is equal to closing price, and the price of gold and bitcoin is stable in one opening range.}\par On the basis of market trading rules, traders have access to the opening price and real-time price. Therefore, every decision are made on account of known price by the time and pridicted price trend in the future. For the convenience of modeling, we set stable assets price on each opening range.
+\item \textbf{It is assumed that on each opening range, the trader only makes one transacion with no limitation of transaction amount.}\par Under such assumption, our model will make decisions with more freedom and the transaction process will be more simple.
+\item \textbf{It is assumed that trading margin is always sufficient during the whole trading period.}\par This assumption can eliminate the impact of trading margin making on transaction determination.
+\end{enumerate}
+
+
+\section{Notations}
+\par In this paper, some important notations are listed in Table 1.
+\begin{longtable}{c c}
+\caption{Notations}\label{Table 1}\\
+\hline
+Symbol             & \multicolumn{1}{c}{Desciption}                                                                                                        \\ \hline
+\multirow{4}{*}{s} & the state of assets                                                                                                                   \\
+                   & $s_0$ = cash                                                                                                                           \\
+                    & $s_1$ = bitcoin                                                                                                                        \\
+                    & $s_2$ = gold                                                                                                                           \\
+F(k,$s_i$)          & the maxmum value of assets on the kth day with the ith type of assets                                                                 \\
+T($s_j$,$s_i$)          & \makecell[l]{the obtainable amount of assets with the deduction of transaction cost \\ after the transferation from the $j$th to the $i$th type of assets} \\
+V(k,$s_i$)          & the price of the $i$th type of assets on the kth day                                                                                    \\ \hline
+\end{longtable}
+
+\section{Task 1: Constructing Strategy Model}
+
+\subsection{Price Pridiction Model Based on ARIMA}
+
+\subsubsection{Data Preprocessing}
+
+\noindent \textbf{1. Data Missing}
+\par When processing data, we find that there is some missing data of closing price due to the \textbf{business suspended} in advance of gold market in holidays. For the purpose of applying time series analysis, we use the opening price on the same day, which is persistent with our \textbf{Assumption 1}. 
+\par \noindent \textbf{2. Data Stationarization}
+\par Sequence stationarity is a prerequisite for time series analysis. We use \textbf{Dickey-Fuller Test} to examine the stationarization of the completed data. 
+\par \textbf{Firstly,} at a certain confidence level, we set a \textbf{Null Hypothesis} that the time series data is unstable and the sequence has a unit root. For a stationary time series data, it is necessary to be significant at a given confidence level and reject the null hypothesis. \textbf{Secondly,} we put our data into the course of \textbf{ADF Test}. Unfortunately, the result is about 0.9042384812941663 and absolutely larger than 0.05, which means we have to accept the hypothesis---our raw data is unstable. \textbf{Thirdly,} for the reasonability of model application, we perform \textbf{first-order difference} on the data and recalculate its P-value. This time, the ADF result is $ 9.26971142153572e^{-13} $, smaller than 0.05 and showing that our processed data is already stable.
+\par \noindent \textbf{3. White Noise Examination}
+\par If the past behavior has no effect on the future development, there is no need to further analyze. Therefore, when we use time series analysis, we need to ensure that our processed data is not white noise. Through Ljung-Box Examination, the P-value of our data is 0.424308, which means that it can be employed in time series analysis.
+
+\subsubsection{Modeling Idea of ARIMA}
+\par Using time series analysis reuqires time sequence models. In our solution, we use \textbf{ARIMA Model} (Auto Regressive Integrate Moving Average Model). After delay difference, \textbf{firstly,} the model establishes a regression equation through the correlation (autocorrelation) between the data in the front part of itself and the data in the back part, so that it can be predicted or analyzed. \textbf{Secondly,} we can obtain the moving average equation by weighting the white noise in a time series. 
+
+\subsubsection{Model Establishment}
+
+At the beginning, as we have no data to predict the price trend, we had better wait and collect some information with no decision. From the 50th day, we start training our model to do some prediction and making transaction decisions with the model in the next part.
+\par To reflect the long-term trend and meanwhile probable abnormal data in the short run, we construct a \textbf{long-short period hybrid prediction model}. With the average two long periods of 67 and 69 days, our model will present the price trend of future 5 days. For the short-time tendency of price in future 3 days, the model will refer to the average of past 27 and 29 days. As for the final predicting result, our model will combine the 61.8\% of long-term result and 38.2\% of short-term result when obtaining the data of future 3 days. As the accuracy is gradually declining with the increase of predicted time in the short-term model, we regard the results in the long-term model directly as the predicted price on the 4th and 5th day.
+
+\subsection{Transaction Determination Model Based on DP}
+
+\subsubsection{Modeling Idea of DP}
+
+\par Dynamic Programming is the majorization of plain recursion. The main idea is to break down a long-term problem and find globally optimal solution for each subproblem. Coping with subproblems in a specific order, we can guarantee that the final solusion is the best as a consequence of abundant optimal steps. Whenever we discover a recursive solution requiring repetitive calls for same inputs, Dynamic Programming will exhibit its advantages. 
+\par Assuming that our prediction for price is completly correct, due to Greedy Strategy, there is no doubt theoretically that the summit of total interest will spring up under the condition that we transfer our assets into only one optimal form. We name it as \textbf{EAI (Extremely Aggressive Investment) Strategy}. Unavoidably, deviation exsists. Nevertheless, concentrating on another indicator--expectation, we all know that the result from ARIMA model is unbiased estimation, which means the estimated expectation has no difference from the real one. Therefore, only when we put all the assets into our predicted optimal choice can the expectation of total interest achieve the peak value. 
+
+\par In the course of transaction determination, we determine each daily optimal though backtracking the result of dynamic programming in the current phase first, as per the temporary net asset value and the result of relatively precise price prediction for future 5 days. Under the situation of this problem, we make future assets maimization as prior judging criterion. Therefore, our goal is to figure out \textbf{today's} best decision to \textbf{maximize the assets after 5 days}. 
+\par According to our EAI Strategy, there is only one out of states of our assets: cash, bitcoin, and gold. In accordance with Greedy Strategy, we will choose the state that ensures \textbf{the highest daily investment worth}.
+Therefore, we construct system of state transition equations as below:
+
+\paragraph{\textbf{When gold market is open,}}
+
+\begin{equation}\label{open}
+F\left( k+1,s_i \right) =\max \left\{ F\left( k,s_j \right) \cdot T\left( s_j,s_i \right) \right\} \,\,\cdot \frac{V\left( k+1,s_i \right)}{V\left( k,s_i \right)},\,\,\,\,\,\,\,\,\,\,\,\,j,i\in \left\{ 0,1,2 \right\} 
+\end{equation}
+
+\paragraph{\textbf{When gold market is closed,}}
+
+\begin{numcases}{}
+F\left( k+1,s_i \right) =\max \left\{ F\left( k,s_j \right) \cdot T\left( s_j,s_i \right) \right\} \,\,\cdot \frac{V\left( k+1,s_ii \right)}{V\left( k,s_i \right)},\,\,\,\,\,\,\,\,\,\,\,\,j,i\in \left\{ 0,1 \right\} \\
+F\left( k+1,s_i \right) =\max \left\{ F\left( k,s_j \right) \cdot T\left( s_j,s_i \right) \right\} \ \cdot \frac{V\left( k+1,i \right)}{V\left( k,s_i \right)},\ \ \ \ \ \ j,i\in \left\{ 2 \right\} \label{gold_closed}
+\end{numcases}
+
+Therein, \textbf{Equation \ref{gold_closed}} can be simplified as:
+\begin{equation}\label{gold_closed_simplified}
+F\left( k+1,s_i \right) =F\left( k,s_i \right) \cdot \frac{V\left( k+1,s_i \right)}{V\left( k,s_i \right)},\ \ \ \ \ \ i=2
+\end{equation}
+
+\par In the system, \boldmath{$s_0$}, \boldmath{$s_1$} and \boldmath{$s_2$} are respectively prescribed as cash, bitcoin and gold. \textbf{$F(k,s_i)$} is the symbol of the maxmum value of assets on the kth day with the ith type of assets. \textbf{$T(s_j,s_i)$} represents the percentage of the obtainable assets amount with the deduction of transaction cost after the transferation form the $j$th to the $i$th type of assets. For instance, $T(s_0,s_1)=1-0.01=0.99$.  \textbf{$V(k,s_i$)} symbolized the price of the ith type of assets on the kth day.
+
+\paragraph{\textbf{Prescribing that,}}
+
+\begin{numcases}{}
+V\left( k,0 \right) =1 \\
+F\left( 0,0 \right) =1000
+\end{numcases}
+
+\par Through state transition equations, we can compute the highest one of all the three types of assets and record the path of each state with the daily price estimation of bitcoin and gold. Recursing this process, we can work out the highest investment worth after 5 days, from which we can backtrack to the current optimal.
+Then, combining each choice can apparently lead to the final decision.
+
+\par \textbf{The pseudo-code of concrete algorithm is listed as follows:}
+~\\
+\begin{breakablealgorithm}[H]
+\caption{Dynamic Programming State Transition}
+\begin{algorithmic}[1]
+\For{$\text{each\_day}$ \textbf{in} $[\text{initial\_time}, \text{end\_time}]$}
+    \State $\text{is\_gold\_market\_open\_today} \gets \text{check\_if\_market\_open}(\text{gold\_date}, \text{current\_day})$
+    \State $\text{end\_state}[\text{current\_day}] \gets [0.0, 0.0, 0.0]$
+    \State $\text{next\_type}[\text{current\_day} + 1] \gets [0, 0, 0]$
+  
+    \If{$\text{is\_gold\_market\_open\_today}$}
+        \State \text{compute\_max\_profit\_and\_optimal\_type}
+    \Else
+        \State \text{compute\_max\_profit\_and\_optimal\_type} \Comment{Gold investment profit is $-1$}
+    \EndIf
+  
+    \Comment{update\_state}
+    \State $\text{today\_gold\_price, next\_gold\_price, today\_bitcoin\_price, next\_bitcoin\_price}$ 
+    \Statex \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad $ \gets \text{get\_prices}(\text{current\_day})$
+    \State $\text{end\_state}[\text{current\_day} + 1] \gets [\text{computed\_profit}]$
+\EndFor
+\end{algorithmic}
+\end{breakablealgorithm}
+~\\
+
+\subsection{The result of Strategy Model}
+According to our Strategy Model, we can finally get an investment worth of \$110449.80806396008 with the initial \$1000, which is about 110 times higher than the beginning. \textbf{Fiture \ref{ARIMA_reslt}} can show the daily investment worth increase under ARIMA-based decision.
+
+\begin {figure} [htbp]
+\centering
+\includegraphics[width=16cm]{ARIMA_result.png}
+\caption{Daily Investment Worth Increase under Model-based Decision}
+\end {figure}
+
+
+\section{Task 2: Strategy Model Selection Analysis}
+
+\subsection{The Advantage of Price Pridiction Model}
+\par Before we determined our basic model for price prediction, we apply both BP (Grey Prediction) Model and ARIMA Model. After s series of examinations, ARIMA Model exhibited better properties.
+
+\begin{enumerate}
+\item \textbf{The imitative effect of Predicted Bitcoin and gold Price in 5 Years from GP fails to meet expectation,} which means that most of the prediction values are lagging behind their corresponding real values in the prediction curve of both bitcoin and gold price.
+
+\begin {figure} [htbp]
+\centering
+\includegraphics[width=16cm]{grey_bit_price.png}
+\caption{The Assemble of Predicted Bitcoin Price in 5 Years from Grey Prediction}
+\end {figure}
+
+\begin {figure} [htbp]
+\centering
+\includegraphics[width=16cm]{grey_gold_price.png}
+\caption{The Assemble of Predicted Gold Price in 5 Years from Grey Prediction}
+\end {figure}
+
+\item \textbf{The MRE (Mean Relative Error) of ARIMA is smaller than GP.}
+
+\begin{figure}[htbp]    % 常规操作\begin{figure}开头说明插入图片
+  % 后面跟着的[htbp]是图片在文档中放置的位置，也称为浮动体的位置，关于这个我们后面的文章会聊聊，现在不管，照写就是了
+  \centering            % 前面说过，图片放置在中间
+  \subfloat[The MRE of ARIMA and GP]
+  {
+      \label{fig:subfig2}\includegraphics[width=0.5\textwidth]{mre.png}
+  }
+  \subfloat[The Number of Days ARIMA or GP Predicting Better]
+  {
+    \label{fig:subfig3}\includegraphics[width=0.5\textwidth]{optimal_percentage.png}
+  }
+  \caption{}    % 整个图片的说明，注释写在{}内
+  \label{}            % 整个图片的标签编号，注意这里跟子图是一样的道理，标签不能重复 
+
+\item 
+\end{figure}
+
+
+\end{enumerate}
+
+\subsection{The Advantage of Transaction Determination Model}
+
+\begin{enumerate}
+\item \textbf{Effectiveness}
+\par Compared with ordinary programming problems such as linear programming, dynamic programming aims at the highest profit in the future. Considering the value within a few days as a whole can more comprehensively assess the impact of each day 's trading decisions on the future and help to formulate more effective trading strategies.
+\item \textbf{Good Performance}
+\par Compared with the violent algorithm to search all the solution space, dynamic programming avoids repeated calculation and useless calculation. It has relatively low time complexity and space complexity, and consumes less time and space. Therefore, it is a computing framework with good performance.
+\end{enumerate}
+
+\section{Task 3: Sensitivity Analysis of Transaction Cost}
+
+\begin{enumerate}
+\item \textbf{The Holding Frequency of Cash, Bitcoin and Gold under the Influenced of Transaction Costs Rate}
+\par When the fee increases, the holding frequency of gold decreases significantly, which is more obvious when the transaction costs rate of bitcoin is lower. The overall holding frequency of bitcoin shows a downward trend, but it is not stable and there is a sudden change. A reasonable explanation is that bitcoin has a higher growth rate, and it is possible to purchase bitcoin at higher transaction costs. However, the number of transactions is reduced, and it is not easy to trade due to small changes, resulting in long-term holding or non-holding of bitcoin and serious fluctuations.
+\begin{figure}[htbp]    % 常规操作\begin{figure}开头说明插入图片
+  % 后面跟着的[htbp]是图片在文档中放置的位置，也称为浮动体的位置，关于这个我们后面的文章会聊聊，现在不管，照写就是了
+  \centering            % 前面说过，图片放置在中间
+  \subfloat[The Holding Frequency of Cash]   % 第一张子图的下标（注意：注释要写在[]中括号内）
+  {
+      \label{fig:subfig1}\includegraphics[width=0.3\textwidth]{cash_holding.png}
+      % \label{}命令为每个子图添加标签，方便在正文中引用。如果你不需要引用的话，也可以不加这个命令，写法在下面有：
+      % \label{}命令的{}内第一个{}中的内容fig:subfig1就是你插入的这张子图的标签，注意每个标签都不能一样，要用合适的编号去区分，比如1、2、3......
+      % \label{}命令中{}内\includegraphics[]{}就是真正插入图片的命令，[]中的是图片的一些参数，{}就是图片的相对路径
+      % width=0.4\textwidth 就是设置图片的大小，这里设置的是文档宽度（\textwidth）的0.4倍，在设置时注意不要超宽，不然会报错，大家多设置几个数尝试一下就能理解了
+  }
+  \subfloat[The Holding Frequency of Bitcoin]
+  {
+    \label{fig:subfig2}\includegraphics[width=0.3\textwidth]{bit_holding.png}
+  }
+  \subfloat[The Holding Frequency of Gold]
+  {
+    \label{fig:subfig3}\includegraphics[width=0.3\textwidth]{gold_holding.png}
+  }
+  \caption{The Holding Frequency under the Influenced of Transaction Costs Rate}    % 整个图片的说明，注释写在{}内
+  \label{fig:subfig_1}            % 整个图片的标签编号，注意这里跟子图是一样的道理，标签不能重复 
+\end{figure}
+
+\item \textbf{The Trading Frequency of Cash, Bitcoin and Gold under the Influenced of Transaction Costs Rate}
+
+\par When the transaction costs rate of bitcoin is changing, or when the transaction costs rate of gold is slightly higher, there is no abnormal situation. When the transaction costs rate of gold is negligible, the transaction costs rate of bitcoin has a great impact on the frequency of gold transactions. The specific explanation is that when the transaction costs rate of bitcoin is high, the transaction frequency increases due to the increase of gold transaction. When the transaction costs rate of bitcoin is very low, the model will hold gold for a short period of time during the small decline of real bitcoin price, resulting in an increase in transaction frequency.
+
+\begin{figure}[htbp]    % 常规操作\begin{figure}开头说明插入图片
+  % 后面跟着的[htbp]是图片在文档中放置的位置，也称为浮动体的位置，关于这个我们后面的文章会聊聊，现在不管，照写就是了
+  \centering            % 前面说过，图片放置在中间
+  \subfloat[The Trading Frequency of Bitcoin]
+  {
+    \label{fig:subfig2}\includegraphics[width=0.4\textwidth]{bit_trading.png}
+  }
+  \subfloat[The Trading Frequency of Gold]
+  {
+    \label{fig:subfig3}\includegraphics[width=0.4\textwidth]{gold_trading.png}
+  }
+  \caption{The Trading Frequency under the Influenced of Transaction Costs Rate}    % 整个图片的说明，注释写在{}内
+  \label{fig:subfig_1}            % 整个图片的标签编号，注意这里跟子图是一样的道理，标签不能重复 
+\end{figure}
+
+\end{enumerate}
+
+\par Our model is sensitive when we changed the rate of transaction costs, mainly because it shows a certain degree of over-fitting in the initial parameters of ARIMA Model. 
+
+\section{Robustness Analysis}
+
+\par Analysis proves that our model features good robustness.
+\par We added Gaussian error to the input price data. For the avoidance of influencing the initial and final price, we selected two relatively long periods, such as the 1300th to 1500th day of bitcoin price prediction and the 500th to 800th day of gold price prediction. The mean value of the  Gaussion error of both prediction model is 0 and for the  standard deviation is 10 for gold price and 100 for bitcoin. Putting the new data into our prediction model, we found that the new final investment worth is \$110507.36378518504, less than 1‰ higher than the original one (110449.80806396008). Hereafter, we conducted repetitive examination with diverse location and length of the error section. As all the test results are similar, therefore, our model is characterized by good robustness.
+
+\section{Model Evaluation and Further Discussion}
+
+\subsection{Strengths and Weaknesses}
+
+\subsubsection{Strengths}
+\begin{enumerate}
+\item  \textbf{Stability}\\
+Our prediction model is insensitive to the time span of predicted price, bacause we take the average of two day's prediction in both long-term and short-term prediction, promoting its stability.
+\item  \textbf{Universality}\\
+Our prediction model can be used in similar decision-making process, such as stock price prediction.
+\item  \textbf{Globality}\\
+Because the Pynamic Programming method reflects the relationship and characteristics of the dynamic process evolution, we will acquire global optimal solution in each transaction determination.
+\end{enumerate}
+
+\subsubsection{Weaknesses}
+\begin{enumerate}
+\item  \textbf{Unstable Accuracy}\\
+For data with large changes in the short term, the prediction accuracy of our model will slightly decrease.
+\item  \textbf{Aggressive Strategy}\\
+In the transaction model, the setted strategy is a little aggressive, which may have conflict with the trader's common methods.
+\end{enumerate}
+
+\subsubsection{Possible Future Improvement}
+\begin{enumerate}
+\item  
+Change the parameters of our model to be adaptive and dynamically adjusted.
+\item  
+Enrich related decition-making model to apply multiple decision methods.
+\end{enumerate}
+
+
+\section{Conclusions}
+\par In this paper, combining the given data and our data cleaning, we use ARIMA Model to create a Price Prediction Model and DP method to find a transaction determination. With the comparison with Model, we prove that our prediction model is the best among all the mentioned model for the reason that our model own better imitive effect with real price model. As for the decision-making model, only DP can determine a local optimum with the global optimum. From these two dimensions, our model's advantage is evident.
+\par Overall, we find a more accurate model for price prediction and a optimal method for transaction determination. When it comes to transaction costs rate, our model shows a good sensitivity, which means that our model take good consideration of transaction costs.
+
+\addcontentsline{toc}{section}{References}
+\begin{thebibliography}{99}
+\bibitem{1}Roy, Shaily, Samiha Nanjiba, and Amitabha Chakrabarty. "Bitcoin price forecasting using time series analysis," in \emph{2018 21st International Conference of Computer and Information Technology (ICCIT), IEEE,} 2018.
+\bibitem{2}Guha, Banhi, and Gautam Bandyopadhyay. "Gold price forecasting using ARIMA model," \emph{Journal of Advanced Management Science,} 2016.
+\bibitem{3}Mariani, FrancescaPolinesi, Gloria,and Recchioni, Maria Cristina. "A tail-revisited Markowitz mean-variance approach and a portfolio network centrality," \emph{Computational Management Science,} 2022, pp. 1-31.
+\bibitem{4}Liu, Chengjun, et al. "Application of Grey-Markov Composite Model in Forecasting Gold Price," \emph{Nonferrous Metals(Mining Section),} 2013, pp. 7-11.
+\bibitem{5}Song, Ce. "Prediction of Gold Futures Price Based on BP Neural Network," \emph{Journal of Shanghai University of Engineering Science,} 2017, pp. 90-94.
+\bibitem{6}Xi, Jing. "Prediction of Gold Price Based on Time Series Mode," \emph{Modern Computer,} 2017, pp. 9-14.
+\end{thebibliography}
+
+
+\newpage
+\linespread{1}
+\begin{memo}[Memorandum]
+Dear trader,
+\setlength{\parindent}{2em} %2em代表首行缩进两个字符
+\par We cannot resist our urge to share with you that we created a model to assist the trading process. Our model consist of two parts: the price pridiction part with ARIMA Model and the transaction determination with DP method. We examined our model with the star-up loan of \$1000, and finally we got an investment worth of \$110449.80806396008, about 110 times of the initial value.
+\par We would like to tell you why we choose these two model. Firstly, according to the given condition, we can only use the real price data from the problem so that the time series analysis is the most suitable for our price prediction model.
+\par Then, we prove that our model is the most appropriate by comparing our prediction-decision model with other models. When proving the optimal prediction model, we compare the prediction accuracy of the two optimal models---ARIMA model and grey prediction model---in all the models we tried. The MRE (Mean Relative Error) of gold and bitcoin price prediction in ARIMA Model prediction are 0.0063 and 0.0281, which are better than 0.0078 and 0.0350 of GP (Grey Prediction) model. 
+\par In addition, we tested the holding frequency and trading frequency of each asset under different portfolios at a rate of 0.002, finding that the DP decision model is very sensitive to the change of transaction costs rate. The specific information is shown in the figures. In general, the trading frequency and holding frequency of an asset decrease after the transaction costs rate increases, and when its own transaction costs rate is low, the transaction costs rate of another asset will also have a greater influence on it.
+\par Overall, we find a more accurate model for price prediction and a optimal method for transaction determination. We know that it may be a little bit aggressive, but sometimes we can be more brave.
+\par What is your idea of our model? Please send your feedback of our model to us. Hope you perform well with our strategy model!
+\end{memo}
+
+
+\end{document}

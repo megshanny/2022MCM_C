@@ -1,0 +1,28 @@
+
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+\begin{document}
+
+\begin{algorithm}
+\caption{Dynamic Programming State Transition}
+\begin{algorithmic}[1]
+\For{$\text{each\_day}$ \textbf{in} $[\text{initial\_time}, \text{end\_time}]$}
+    \State$\text{is_gold\_market\_open\_today} \gets \text{check\_if\_market\_open}(\text{gold\_date}, \text{current\_day})$
+    \State$\text{end\_state}[\text{current\_day}] \gets [0.0, 0.0, 0.0]$
+    \State$\text{next\_type}[\text{current\_day} + 1] \gets [0, 0, 0]$
+
+    \If{$\text{is\_gold\_market\_open\_today}$}
+        \State\text{compute\_max\_profit\_and\_optimal\_type}
+    \Else\State\text{compute\_max\_profit\_and\_optimal\_type} \Comment{Gold investment profit is $-1$}
+    \EndIf
+    \Comment{update\_state}
+        \State$\text{today\_gold\_price}, \text{next\_gold\_price}, \text{today\_bitcoin\_price}, \text{next\_bitcoin\_price} \gets \text{get\_prices}(\text{current\_day})$
+        \State$\text{end\_state}[\text{current\_day} + 1] \gets [\text{computed\_profit}, \ldots]$
+\EndFor
+\end{algorithmic}
+\end{algorithm}
+
+\end{document}
